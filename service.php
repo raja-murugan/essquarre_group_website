@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Contact</title>
+	<title>Service</title>
 	<meta name="description" content="Archix - Architecture and Interior Design HTML Template">
 	<meta name="keywords" content="apartments, architect, architecture, building, clean, construction, creative, decoration, interior design, minimal, modern, portfolio, residence, studio">
 	<meta name="author" content="Themexriver">
@@ -39,18 +39,18 @@
 					</div>
 				</div>
 				<div class="brand-logo">
-					<a href="index.html"><img src="assets/img/logo/logo-5.png" alt=""></a>
+					<a href="index.php"><img src="assets/img/logo/logo-5.png" alt=""></a>
 				</div>
 			</div>
 			<div class="header-cta-btn-wrapper d-flex align-items-center">
 				<div class="arck-main-navigation-wrap">
 					<nav class="main-navigation clearfix ul-li">
 						<ul id="main-nav" class="nav navbar-nav clearfix">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="service.html">Services</a></li>
-							<li><a href="work.html">Work</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li><a href="index.php">Home</a></li>
+							<li><a href="about.php">About</a></li>
+							<li><a href="service.php">Services</a></li>
+							<li><a href="work.php">Work</a></li>
+							<li><a href="contact.php">Contact</a></li>
 						</ul>
 					</nav>
 				</div>
@@ -66,7 +66,7 @@
 				<div class="header-cta-btn">
 					<a class="d-flex justify-content-center align-items-center"
 						href="https://api.whatsapp.com/send/?phone=%2B91984179190&text&type=phone_number&app_absent=0"
-						target="_blank">Chat With Us<i class="fal fa-long-arrow-right"></i></a>
+						target="_blank">Chat on Whatsapp<i class="fal fa-long-arrow-right"></i></a>
 				</div>
 			</div>
 			<div class="mobile_menu">
@@ -80,15 +80,15 @@
 							<i class="fal fa-times"></i>
 						</div>
 						<div class="m-brand-logo">
-							<a href="index.html"><img src="assets/img/logo/logo-5.png" alt=""></a>
+							<a href="index.php"><img src="assets/img/logo/logo-5.png" alt=""></a>
 						</div>
-						<nav class="main-navigation clearfix ul-li">
-							<ul id="main-nav" class="nav navbar-nav clearfix">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="about.html">About</a></li>
-								<li><a href="service.html">Services</a></li>
-								<li><a href="work.html">Work</a></li>
-								<li><a href="contact.html">Contact</a></li>
+						<nav class="mobile-main-navigation clearfix ul-li">
+							<ul id="m-main-nav" class="nav navbar-nav clearfix">
+								<li><a href="index.php">Home</a></li>
+								<li><a href="about.php">About</a></li>
+								<li><a href="service.php">Services</a></li>
+								<li><a href="work.php">Work</a></li>
+								<li><a href="contact.php">Contact</a></li>
 							</ul>
 						</nav>
 					</div>
@@ -128,7 +128,7 @@
 					<div class="sidebar-info-contents headline pera-content">
 						<div class="content-inner">
 							<div class="logo">
-								<a href="index.html"><img src="assets/img/logo/logo-3.png" alt=""></a>
+								<a href="index.php"><img src="assets/img/logo/logo-3.png" alt=""></a>
 							</div>
 							<div class="content-box">
 								<h5>About Us</h5>
@@ -143,6 +143,7 @@
 									<li><a href="https://www.facebook.com/" class="fab fa-facebook-f"></a></li>
 									<li><a href="https://www.instagram.com/" class="fab fa-instagram"></a></li>
 									<li><a href="https://www.twitter.com/" class="fab fa-twitter"></a></li>
+									<li><a href="https://www.youtube.com/" class="fab fa-youtube"></a></li>
 								</ul>
 							</div>
 							<!-- Contact Us -->
@@ -173,10 +174,10 @@
 		</div>
 		<div class="container">
 			<div class="arck-breadcrumb-content position-relative text-center headline-2 ul-li">
-				<h1>Contact</h1>
+				<h1>Service</h1>
 				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li>Contact</li>
+					<li><a href="index.php">Home</a></li>
+					<li>Service</li>
 				</ul>
 			</div>
 		</div>
@@ -184,95 +185,191 @@
 <!-- End of Breadcrumb section
 	============================================= -->
 
-<!-- Start of Contact page content section
+<!-- Start of Service section
 	============================================= -->
-	<section id="arck-contact-page" class="arck-contact-page-section inner-page-padding">
+	<section id="arck-service-2" class="arck-service-section-2 inner-page-padding">
 		<div class="container">
-			<div class="arck-contact-page-content">
+			<div class="arck-service-content-2">
 				<div class="row">
-					<div class="col-lg-6">
-						<div class="arck-contact-page-cta position-relative">
-							<div class="contact-cta-inner-img position-relative">
-								<img src="assets/img/about/cn1.jpg" alt="">
+					<div class="col-lg-4 col-md-6">
+						<div class="arck-service-item-2 position-relative">
+							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
+							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
+								<img src="assets/icon/ic11.png" alt="">
 							</div>
-							<div class="contact-cta-inner-text position-absolute headline pera-content" data-background="assets/img/about/cn-bg.jpg">
-								<h3>Contact Details</h3>
-								<div class="arck-video-cta-wrap">
-									<div class="video-cta-item d-flex">
-										<div class="inner-icon">
-											<img src="assets/icon/ic8.png" alt="">
-										</div>
-										<div class="inner-text headline pera-content">
-											<h3>Office Address:</h3>
-											<p>C20,10thcrossstreet,<br>WestExtension,
-												ThillaiNagar,<br>Trichy-620018</p>
-										</div>
-									</div>
-									<div class="video-cta-item d-flex">
-										<div class="inner-icon">
-											<img src="assets/icon/ic9.png" alt="">
-										</div>
-										<div class="inner-text headline pera-content">
-											<h3>Mail Us:</h3>
-											<p><a href="mailto:Essquarreassociates@gmail.com">Essquarreassociates@gmail.com</a></p>
-											<p><a href="mailto:info.essquarre@gmail.com">info.essquarre@gmail.com</a></p>
-										</div>
-									</div>
-									<div class="video-cta-item d-flex">
-										<div class="inner-icon">
-											<img src="assets/icon/ic10.png" alt="">
-										</div>
-										<div class="inner-text headline pera-content">
-											<h3>Telephone:</h3>
-											<p><a href="tel:+919894391901" style="font:caption">+91 98943 91901</a></p>
-											<p><a href="tel:+919841791901" style="font:caption">+91 98417 91901</a></p>
-										</div>
-									</div>
-								</div>
+							<div class="inner-text headline pera-content">
+								<h3><a href="javascript:void(0)">Planning & Design</a></h3>
+								<p>Prepare to meet the one and only For
+									the WordPress theme perfect for both offer in the corporate ativeects.
+								</p>
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-6">
-						<div class="arck-contact-page-form">
-							<div class="arck-appointment-form-wrap">
-								<div class="arck-section-title headline pera-content">
-									<span class="sub-title text-uppercase">Get A Quote</span>
-									<h2>Keep Get in Touch</h2>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor labore et dolore magna aliqua
-									</p>
-								</div>
-								<form action="#" method="get">
-									<div class="row">
-										<div class="col-md-6">
-											<input type="text" name="name" placeholder="First Name">
-										</div>
-										<div class="col-md-6">
-											<input type="text" name="name" placeholder="Last Name">
-										</div>
-										<div class="col-md-6">
-											<input type="text" name="phone" placeholder="Phone Number">
-										</div>
-										<div class="col-md-6">
-											<input type="email" name="email" placeholder="E-mail">
-										</div>
-										<div class="col-md-12">
-											<textarea name="message" placeholder="Massaege"></textarea>
-										</div>
-									</div>
-									<button type="submit">Submit Now</button>
-								</form>
+					<div class="col-lg-4 col-md-6">
+						<div class="arck-service-item-2 position-relative">
+							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
+							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
+								<img src="assets/icon/ic12.png" alt="">
+							</div>
+							<div class="inner-text headline pera-content">
+								<h3><a href="javascript:void(0)">Custom Solutions</a></h3>
+								<p>Prepare to meet the one and only For
+									the WordPress theme perfect for both offer in the corporate ativeects.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6">
+						<div class="arck-service-item-2 position-relative">
+							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
+							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
+								<img src="assets/icon/ic13.png" alt="">
+							</div>
+							<div class="inner-text headline pera-content">
+								<h3><a href="javascript:void(0)">Furniture & Decor</a></h3>
+								<p>Prepare to meet the one and only For
+									the WordPress theme perfect for both offer in the corporate ativeects.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6">
+						<div class="arck-service-item-2 position-relative">
+							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
+							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
+								<img src="assets/icon/ic14.png" alt="">
+							</div>
+							<div class="inner-text headline pera-content">
+								<h3><a href="javascript:void(0)">3D Animation</a></h3>
+								<p>Prepare to meet the one and only For
+									the WordPress theme perfect for both offer in the corporate ativeects.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6">
+						<div class="arck-service-item-2 position-relative">
+							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
+							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
+								<img src="assets/icon/ic15.png" alt="">
+							</div>
+							<div class="inner-text headline pera-content">
+								<h3><a href="javascript:void(0)">House Renovation</a></h3>
+								<p>Prepare to meet the one and only For
+									the WordPress theme perfect for both offer in the corporate ativeects.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6">
+						<div class="arck-service-item-2 position-relative">
+							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
+							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
+								<img src="assets/icon/ic16.png" alt="">
+							</div>
+							<div class="inner-text headline pera-content">
+								<h3><a href="javascript:void(0)">Ideas & Inspiration</a></h3>
+								<p>Prepare to meet the one and only For
+									the WordPress theme perfect for both offer in the corporate ativeects.
+								</p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</section>	
-<!-- End of Contact page content section
+	</section>		
+<!-- End of Service section
 	============================================= -->	
-	<div class="contact_map">
-		<iframe class="arck_map" src="https://www.google.com/maps/d/u/0/embed?mid=1RXfcgGAU9iSRv15_044GGCYLFfBlhGeV" width="100%"  height="475"></iframe>
-	</div>
+
+<!-- Start of CTA section
+	============================================= -->
+	<section id="arck-cta" class="arck-cta-section position-relative" data-background="assets/img/bg/cta-bg.jpg">
+		<div class="background_overlay"></div>
+		<div class="container">
+			<div class="arck-cta-content text-center headline position-relative">
+				<h2>We Provide Affortable Services Save
+				Time &  Save Mony. </h2>
+				<div class="arck-cta-button-group d-flex justify-content-center">
+					<div class="arck-btn">
+						<a class="d-flex justify-content-center align-items-center text-uppercase" href="contact.php">Contact Us</a>
+					</div>
+					<div class="arck-cta-number d-flex align-items-center ">
+						<i class="fal fa-phone-alt"></i>
+						<a href="tel:+91984179190">+91 984179190</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>				
+<!-- End of CTA section
+	============================================= -->
+
+
+<!-- Start of Work Process section
+	============================================= -->
+	<section id="arck-work-process" class="arck-work-process-section inner-page-padding">
+		<div class="container">
+			<div class="arck-section-title headline text-center pera-content">
+				<span class="sub-title text-uppercase">Work Process</span>
+				<h2>How We Complete Works</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor labore et dolore magna aliqua. Ut enim ad minim veniam quis.
+				</p>
+			</div>
+			<div class="arck-work-process-content">
+				<div class="row justify-content-center">
+					<div class="col-lg-4 col-md-6">
+						<div class="arck-work-process-item text-center position-relative">
+							<div class="inner-icon">
+								<img src="assets/icon/ic4.png" alt="">
+							</div>
+							<div class="inner-text headline pera-content">
+								<h3>Planning & Design</h3>
+								<p>Prepare to meet the one and only For the WordPress theme perfect for both offer    in the corporate ativeects.</p>
+								<div class="work-serial position-relative">
+									<h4>01</h4>
+									<span class="text-uppercase">Step</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6">
+						<div class="arck-work-process-item text-center position-relative">
+							<div class="inner-icon">
+								<img src="assets/icon/ic5.png" alt="">
+							</div>
+							<div class="inner-text headline pera-content">
+								<h3>Draws & Sketches</h3>
+								<p>Prepare to meet the one and only For the WordPress theme perfect for both offer    in the corporate ativeects.</p>
+								<div class="work-serial position-relative">
+									<h4>02</h4>
+									<span class="text-uppercase">Step</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6">
+						<div class="arck-work-process-item text-center position-relative">
+							<div class="inner-icon">
+								<img src="assets/icon/ic6.png" alt="">
+							</div>
+							<div class="inner-text headline pera-content">
+								<h3>Start Building</h3>
+								<p>Prepare to meet the one and only For the WordPress theme perfect for both offer    in the corporate ativeects.</p>
+								<div class="work-serial position-relative">
+									<h4>03</h4>
+									<span class="text-uppercase">Step</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>				
+<!-- End of Work Process section
+	============================================= -->		
+
 
 <!-- Start of Footer section
 	============================================= -->
@@ -339,11 +436,11 @@
 							<div class="menu-widget">
 								<h3 class="widget-title">Quick Links</h3>
 								<ul>
-									<li><a href="index.html">Home</a></li>
-									<li><a href="about.html">About</a></li>
-									<li><a href="service.html">Services</a></li>
-									<li><a href="work.html">Work</a></li>
-									<li><a href="contact.html">Contact</a></li>
+									<li><a href="index.php">Home</a></li>
+									<li><a href="about.php">About</a></li>
+									<li><a href="service.php">Services</a></li>
+									<li><a href="work.php">Work</a></li>
+									<li><a href="contact.php">Contact</a></li>
 								</ul>
 							</div>
 						</div>
@@ -375,7 +472,7 @@
 		</div>
 	</footer>
 	<!-- End of Footer section
-	============================================= -->			
+	============================================= -->	
 
 	<!-- For Js Library -->
 	<script src="assets/js/jquery.min.js"></script>
@@ -394,4 +491,4 @@
 	<script src="assets/js/jquery.inputarrow.js"></script>
 	<script src="assets/js/script.js"></script>
 </body>
-</html>				
+</html>					

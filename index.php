@@ -43,18 +43,18 @@
 					</div>
 				</div>
 				<div class="brand-logo">
-					<a href="index.html"><img src="assets/img/logo/logo-5.png" alt=""></a>
+					<a href="index.php"><img src="assets/img/logo/logo-5.png" alt=""></a>
 				</div>
 			</div>
 			<div class="header-cta-btn-wrapper d-flex align-items-center">
 				<div class="arck-main-navigation-wrap">
 					<nav class="main-navigation clearfix ul-li">
 						<ul id="main-nav" class="nav navbar-nav clearfix">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="service.html">Services</a></li>
-							<li><a href="work.html">Work</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li><a href="index.php">Home</a></li>
+							<li><a href="about.php">About</a></li>
+							<li><a href="service.php">Services</a></li>
+							<li><a href="work.php">Work</a></li>
+							<li><a href="contact.php">Contact</a></li>
 						</ul>
 					</nav>
 				</div>
@@ -84,15 +84,15 @@
 							<i class="fal fa-times"></i>
 						</div>
 						<div class="m-brand-logo">
-							<a  href="index.html"><img src="assets/img/logo/logo-5.png" alt=""></a>
+							<a  href="index.php"><img src="assets/img/logo/logo-5.png" alt=""></a>
 						</div>
 						<nav class="mobile-main-navigation  clearfix ul-li">
 							<ul id="m-main-nav" class="nav navbar-nav clearfix">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="about.html">About</a></li>
-								<li><a href="service.html">Services</a></li>
-								<li><a href="work.html">Work</a></li>
-								<li><a href="contact.html">Contact</a></li>
+								<li><a href="index.php">Home</a></li>
+								<li><a href="about.php">About</a></li>
+								<li><a href="service.php">Services</a></li>
+								<li><a href="work.php">Work</a></li>
+								<li><a href="contact.php">Contact</a></li>
 							</ul>
 						</nav>
 					</div>
@@ -132,7 +132,7 @@
 					<div class="sidebar-info-contents headline pera-content">
 						<div class="content-inner">
 							<div class="logo">
-								<a href="index.html"><img src="assets/img/logo/logo-3.png" alt=""></a>
+								<a href="index.php"><img src="assets/img/logo/logo-3.png" alt=""></a>
 							</div>
 							<div class="content-box">
 								<h5>About Us</h5>
@@ -304,7 +304,7 @@
 							</div>
 							<div class="arck-btn-2 wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
 								<a class="d-flex justify-content-center align-items-center text-uppercase"
-									href="about.html">About Us</a>
+									href="about.php">About Us</a>
 							</div>
 						</div>
 					</div>
@@ -490,91 +490,7 @@
 	</section>
 	<!-- End of Service section
 	============================================= -->
-
-	<!-- Start of Project section
-	============================================= -->
-	<section id="arck-project-2" class="arck-project-section-2">
-		<div class="container">
-			<div class="arck-project-top-content d-flex justify-content-between align-items-center">
-				<div class="arck-section-title headline pera-content">
-					<h2>Latest Projects</h2>
-				</div>
-				<div class="arck-project-filter-btn ul-li text-center">
-					<div class="button-group  text-center clearfix">
-						<button class="filter-button is-checked" data-filter="*">All </button>
-						<button class="filter-button" data-filter=".interiors">Interiors</button>
-						<button class="filter-button" data-filter=".design"> 3D Design</button>
-						<button class="filter-button" data-filter=".building">Building</button>
-						<button class="filter-button" data-filter=".house_exterior">House & Exterior </button>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="arck-project-filter-content">
-			<div class="filtr-container-area grid clearfix"
-				data-isotope="{ &quot;masonry&quot;: { &quot;columnWidth&quot;: 0 } }">
-				<div class="grid-sizer"></div>
-				<div class="grid-item grid-size-50 interiors design" data-category="interiors design">
-					<div class="arck-project-item-2 position-relative">
-						<div class="inner-img">
-							<img src="assets/img/project/prt1.jpg" alt="">
-						</div>
-						<div class="inner-text headline pera-content">
-							<h3><a href="javascript:void(0)">Kitchen Inspiration</a></h3>
-							<span class="port-cate text-uppercase"> <a href="work.html">Architecture</a></span>
-						</div>
-					</div>
-				</div>
-				<div class="grid-item grid-size-25 house_exterior design" data-category="house_exterior design">
-					<div class="arck-project-item-2 position-relative">
-						<div class="inner-img">
-							<img src="assets/img/project/prt2.jpg" alt="">
-						</div>
-						<div class="inner-text headline pera-content">
-							<h3><a href="javascript:void(0)">Kitchen Inspiration</a></h3>
-							<span class="port-cate text-uppercase"> <a href="work.html">Architecture</a></span>
-						</div>
-					</div>
-				</div>
-				<div class="grid-item grid-size-25 building design" data-category="building design">
-					<div class="arck-project-item-2 position-relative">
-						<div class="inner-img">
-							<img src="assets/img/project/prt5.jpg" alt="">
-						</div>
-						<div class="inner-text headline pera-content">
-							<h3><a href="javascript:void(0)">Kitchen Inspiration</a></h3>
-							<span class="port-cate text-uppercase"> <a href="work.html">Architecture</a></span>
-						</div>
-					</div>
-				</div>
-				<div class="grid-item grid-size-25 house_exterior building" data-category="house_exterior building">
-					<div class="arck-project-item-2 position-relative">
-						<div class="inner-img">
-							<img src="assets/img/project/prt4.jpg" alt="">
-						</div>
-						<div class="inner-text headline pera-content">
-							<h3><a href="javascript:void(0)">Kitchen Inspiration</a></h3>
-							<span class="port-cate text-uppercase"> <a href="work.html">Architecture</a></span>
-						</div>
-					</div>
-				</div>
-				<div class="grid-item grid-size-50 interiors design" data-category="interiors design">
-					<div class="arck-project-item-2 position-relative">
-						<div class="inner-img">
-							<img src="assets/img/project/prt3.jpg" alt="">
-						</div>
-						<div class="inner-text headline pera-content">
-							<h3><a href="javascript:void(0)">Kitchen Inspiration</a></h3>
-							<span class="port-cate text-uppercase"> <a href="work.html">Architecture</a></span>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- End of Project section
-	============================================= -->
-	<br>
+	
 	<!-- Start of Testimonial appointment section
 	============================================= -->
 	<section id="arck-testimonial-appointment" class="arck-testimonial-appointment position-relative">
@@ -645,7 +561,7 @@
 						<div class="arck-appointment-form-wrap">
 							<div class="arck-section-title-2 headline pera-content">
 								<span class="sub-title text-uppercase">Get A Quote</span>
-								<h2>Book An <span>Appointment</span></h2>
+								<h2>Contact Us</h2>
 							</div>
 							<form action="#" method="get">
 								<div class="row">
@@ -662,7 +578,7 @@
 										<input type="email" name="email" placeholder="E-mail">
 									</div>
 									<div class="col-md-12">
-										<textarea name="message" placeholder="Massaege"></textarea>
+										<textarea type="text" name="message" placeholder="Message" style="color: black;"></textarea>
 									</div>
 								</div>
 								<button type="submit">Submit Now</button>
@@ -740,11 +656,11 @@
 							<div class="menu-widget">
 								<h3 class="widget-title">Quick Links</h3>
 								<ul>
-									<li><a href="index.html">Home</a></li>
-									<li><a href="about.html">About</a></li>
-									<li><a href="service.html">Services</a></li>
-									<li><a href="work.html">Work</a></li>
-									<li><a href="contact.html">Contact</a></li>
+									<li><a href="index.php">Home</a></li>
+									<li><a href="about.php">About</a></li>
+									<li><a href="service.php">Services</a></li>
+									<li><a href="work.php">Work</a></li>
+									<li><a href="contact.php">Contact</a></li>
 								</ul>
 							</div>
 						</div>
@@ -754,11 +670,11 @@
 							<div class="menu-widget">
 								<h3 class="widget-title">Services</h3>
 								<ul>
-									<li><a href="service.html">Services 1</a></li>
-									<li><a href="service.html">Services 2</a></li>
-									<li><a href="service.html">Services 3</a></li>
-									<li><a href="service.html">Services 4</a></li>
-									<li><a href="service.html">Services 5</a></li>
+									<li><a href="service.php">Services 1</a></li>
+									<li><a href="service.php">Services 2</a></li>
+									<li><a href="service.php">Services 3</a></li>
+									<li><a href="service.php">Services 4</a></li>
+									<li><a href="service.php">Services 5</a></li>
 								</ul>
 							</div>
 						</div>

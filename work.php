@@ -39,18 +39,18 @@
 					</div>
 				</div>
 				<div class="brand-logo">
-					<a href="index.html"><img src="assets/img/logo/logo-5.png" alt=""></a>
+					<a href="index.php"><img src="assets/img/logo/logo-5.png" alt=""></a>
 				</div>
 			</div>
 			<div class="header-cta-btn-wrapper d-flex align-items-center">
 				<div class="arck-main-navigation-wrap">
 					<nav class="main-navigation clearfix ul-li">
 						<ul id="main-nav" class="nav navbar-nav clearfix">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="service.html">Services</a></li>
-							<li><a href="work.html">Work</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li><a href="index.php">Home</a></li>
+							<li><a href="about.php">About</a></li>
+							<li><a href="service.php">Services</a></li>
+							<li><a href="work.php">Work</a></li>
+							<li><a href="contact.php">Contact</a></li>
 						</ul>
 					</nav>
 				</div>
@@ -80,15 +80,15 @@
 							<i class="fal fa-times"></i>
 						</div>
 						<div class="m-brand-logo">
-							<a href="index.html"><img src="assets/img/logo/logo-5.png" alt=""></a>
+							<a href="index.php"><img src="assets/img/logo/logo-5.png" alt=""></a>
 						</div>
 						<nav class="main-navigation clearfix ul-li">
 							<ul id="main-nav" class="nav navbar-nav clearfix">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="about.html">About</a></li>
-								<li><a href="service.html">Services</a></li>
-								<li><a href="work.html">Work</a></li>
-								<li><a href="contact.html">Contact</a></li>
+								<li><a href="index.php">Home</a></li>
+								<li><a href="about.php">About</a></li>
+								<li><a href="service.php">Services</a></li>
+								<li><a href="work.php">Work</a></li>
+								<li><a href="contact.php">Contact</a></li>
 							</ul>
 						</nav>
 					</div>
@@ -128,7 +128,7 @@
 					<div class="sidebar-info-contents headline pera-content">
 						<div class="content-inner">
 							<div class="logo">
-								<a href="index.html"><img src="assets/img/logo/logo-3.png" alt=""></a>
+								<a href="index.php"><img src="assets/img/logo/logo-3.png" alt=""></a>
 							</div>
 							<div class="content-box">
 								<h5>About Us</h5>
@@ -175,7 +175,7 @@
 			<div class="arck-breadcrumb-content position-relative text-center headline-2 ul-li">
 				<h1>Work</h1>
 				<ul>
-					<li><a href="index.html">Home</a></li>
+					<li><a href="index.php">Home</a></li>
 					<li>Work</li>
 				</ul>
 			</div>
@@ -299,7 +299,7 @@
 						</div>
 						<div class="inner-text">
 							<div class="project-title-desc headline pera-content">
-								<h3><a href="project-single.html">Mixitu Duplex Home</a></h3>
+								<h3><a href="project-single.php">Mixitu Duplex Home</a></h3>
 								<p>Information architecture helps organize content overall so it’s easy to find and use. Imagine a storeroom filled to the brim with things these things are all related to sports.</p>
 							</div>
 						</div>
@@ -312,7 +312,7 @@
 						</div>
 						<div class="inner-text">
 							<div class="project-title-desc headline pera-content">
-								<h3><a href="project-single.html">Mixitu Duplex Home</a></h3>
+								<h3><a href="project-single.php">Mixitu Duplex Home</a></h3>
 								<p>Information architecture helps organize content overall so it’s easy to find and use. Imagine a storeroom filled to the brim with things these things are all related to sports.</p>
 							</div>
 						</div>
@@ -325,7 +325,7 @@
 						</div>
 						<div class="inner-text">
 							<div class="project-title-desc headline pera-content">
-								<h3><a href="project-single.html">Mixitu Duplex Home</a></h3>
+								<h3><a href="project-single.php">Mixitu Duplex Home</a></h3>
 								<p>Information architecture helps organize content overall so it’s easy to find and use. Imagine a storeroom filled to the brim with things these things are all related to sports.</p>
 							</div>
 						</div>
@@ -338,7 +338,7 @@
 						</div>
 						<div class="inner-text">
 							<div class="project-title-desc headline pera-content">
-								<h3><a href="project-single.html">Mixitu Duplex Home</a></h3>
+								<h3><a href="project-single.php">Mixitu Duplex Home</a></h3>
 								<p>Information architecture helps organize content overall so it’s easy to find and use. Imagine a storeroom filled to the brim with things these things are all related to sports.</p>
 							</div>
 						</div>
@@ -351,7 +351,7 @@
 						</div>
 						<div class="inner-text">
 							<div class="project-title-desc headline pera-content">
-								<h3><a href="project-single.html">Mixitu Duplex Home</a></h3>
+								<h3><a href="project-single.php">Mixitu Duplex Home</a></h3>
 								<p>Information architecture helps organize content overall so it’s easy to find and use. Imagine a storeroom filled to the brim with things these things are all related to sports.</p>
 							</div>
 						</div>
@@ -428,11 +428,11 @@
 							<div class="menu-widget">
 								<h3 class="widget-title">Quick Links</h3>
 								<ul>
-									<li><a href="index.html">Home</a></li>
-									<li><a href="about.html">About</a></li>
-									<li><a href="service.html">Services</a></li>
-									<li><a href="work.html">Work</a></li>
-									<li><a href="contact.html">Contact</a></li>
+									<li><a href="index.php">Home</a></li>
+									<li><a href="about.php">About</a></li>
+									<li><a href="service.php">Services</a></li>
+									<li><a href="work.php">Work</a></li>
+									<li><a href="contact.php">Contact</a></li>
 								</ul>
 							</div>
 						</div>

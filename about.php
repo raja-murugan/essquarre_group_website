@@ -39,18 +39,18 @@
 					</div>
 				</div>
 				<div class="brand-logo">
-					<a href="index.html"><img src="assets/img/logo/logo-5.png" alt=""></a>
+					<a href="index.php"><img src="assets/img/logo/logo-5.png" alt=""></a>
 				</div>
 			</div>
 			<div class="header-cta-btn-wrapper d-flex align-items-center">
 				<div class="arck-main-navigation-wrap">
 					<nav class="main-navigation clearfix ul-li">
 						<ul id="main-nav" class="nav navbar-nav clearfix">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="service.html">Services</a></li>
-							<li><a href="work.html">Work</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li><a href="index.php">Home</a></li>
+							<li><a href="about.php">About</a></li>
+							<li><a href="service.php">Services</a></li>
+							<li><a href="work.php">Work</a></li>
+							<li><a href="contact.php">Contact</a></li>
 						</ul>
 					</nav>
 				</div>
@@ -78,15 +78,15 @@
 							<i class="fal fa-times"></i>
 						</div>
 						<div class="m-brand-logo">
-							<a  href="index.html"><img src="assets/img/logo/logo-5.png" alt=""></a>
+							<a  href="index.php"><img src="assets/img/logo/logo-5.png" alt=""></a>
 						</div>
 						<nav class="mobile-main-navigation clearfix ul-li">
 							<ul id="m-main-nav" class="nav navbar-nav clearfix">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="about.html">About</a></li>
-								<li><a href="service.html">Services</a></li>
-								<li><a href="work.html">Work</a></li>
-								<li><a href="contact.html">Contact</a></li>
+								<li><a href="index.php">Home</a></li>
+								<li><a href="about.php">About</a></li>
+								<li><a href="service.php">Services</a></li>
+								<li><a href="work.php">Work</a></li>
+								<li><a href="contact.php">Contact</a></li>
 							</ul>
 						</nav>
 					</div>
@@ -126,7 +126,7 @@
 					<div class="sidebar-info-contents headline pera-content">
 						<div class="content-inner">
 							<div class="logo">
-								<a href="index.html"><img src="assets/img/logo/logo-3.png" alt=""></a>
+								<a href="index.php"><img src="assets/img/logo/logo-3.png" alt=""></a>
 							</div>
 							<div class="content-box">
 								<h5>About Us</h5>
@@ -172,7 +172,7 @@
 			<div class="arck-breadcrumb-content position-relative text-center headline-2 ul-li">
 				<h1>About Us</h1>
 				<ul>
-					<li><a href="index.html">Home</a></li>
+					<li><a href="index.php">Home</a></li>
 					<li>About Us</li>
 				</ul>
 			</div>
@@ -221,7 +221,7 @@
 								</div>
 							</div>
 							<div class="arck-btn">
-								<a class="d-flex justify-content-center align-items-center text-uppercase" href="work.html">View Works</a>
+								<a class="d-flex justify-content-center align-items-center text-uppercase" href="work.php">View Works</a>
 							</div>
 						</div>
 					</div>
@@ -309,7 +309,7 @@
 				Time &  Save Mony. </h2>
 				<div class="arck-cta-button-group d-flex justify-content-center">
 					<div class="arck-btn">
-						<a class="d-flex justify-content-center align-items-center text-uppercase" href="contact.html">Contact Us</a>
+						<a class="d-flex justify-content-center align-items-center text-uppercase" href="contact.php">Contact Us</a>
 					</div>
 					<div class="arck-cta-number d-flex align-items-center ">
 						<i class="fal fa-phone-alt"></i>
@@ -621,11 +621,11 @@
 							<div class="menu-widget">
 								<h3 class="widget-title">Quick Links</h3>
 								<ul>
-									<li><a href="index.html">Home</a></li>
-									<li><a href="about.html">About</a></li>
-									<li><a href="service.html">Services</a></li>
-									<li><a href="work.html">Work</a></li>
-									<li><a href="contact.html">Contact</a></li>
+									<li><a href="index.php">Home</a></li>
+									<li><a href="about.php">About</a></li>
+									<li><a href="service.php">Services</a></li>
+									<li><a href="work.php">Work</a></li>
+									<li><a href="contact.php">Contact</a></li>
 								</ul>
 							</div>
 						</div>

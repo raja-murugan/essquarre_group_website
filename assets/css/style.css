@@ -154,7 +154,7 @@ body {
   left: 0px;
 }
 .arck-appointment-form-wrap form button:hover:after, .arck-btn a:hover:after {
-  background-color: var(--black-color);
+  background-color: #ff6d33;
 }
 
 @-webkit-keyframes Move_animation_1 {
@@ -212,7 +212,7 @@ body {
   border-radius: 5px;
   overflow: hidden;
   font-family: var(--heading);
-  background-color: var(--black-color);
+  background-color: #1aa6f8;
 }
 .arck-btn-2 a:before {
   top: 17px;
@@ -225,7 +225,7 @@ body {
   border-radius: 100%;
   -webkit-transition: 800ms all ease;
   transition: 800ms all ease;
-  background-color: var(--main-color);
+  background-color: #ff6d33;
 }
 .arck-btn-2 a:hover:before {
   -webkit-animation: Move_animation_1 12s infinite linear alternate;
@@ -1522,7 +1522,7 @@ body {
   transition: var(--transition);
 }
 .arck-service-item-2:hover {
-  background-color: var(--black-color);
+  background-color: #1aa6f8;
 }
 .arck-service-item-2:hover .inner-icon {
   border: 5px solid #2f2f2f;
@@ -4029,10 +4029,10 @@ body {
   background-color: var(--black-color);
 }
 .arck-contact-page-form .arck-appointment-form-wrap form button:before {
-  border: 1px solid var(--main-color);
+  border: 1px solid black;
 }
 .arck-contact-page-form .arck-appointment-form-wrap form button:after {
-  background-color: var(--black-color);
+  color: #000000;
 }
 
 .arck_map {
@@ -4469,7 +4469,7 @@ body {
 }
 .archx-header-section .header-cta-number .ar-value {
   display: block;
-  color: #DD1D26;
+  color: #1aa6f8;
   font-size: 14px;
   font-family: var(--heading-2);
 }
@@ -4482,7 +4482,7 @@ body {
   height: 55px;
   font-size: 14px;
   font-weight: 500;
-  background-color: var(--main-color-2);
+  background-color: #1aa6f8;
 }
 .archx-header-section .header-cta-btn a i {
   margin-left: 8px;
@@ -4490,7 +4490,7 @@ body {
   transition: 500ms all ease;
 }
 .archx-header-section .header-cta-btn a:hover {
-  background-color: #000;
+  background-color: #ff6d33;
 }
 .archx-header-section .header-cta-btn a:hover i {
   margin-left: 10px;
@@ -4944,7 +4944,7 @@ body {
   border: 1px solid rgba(0, 0, 0, 0.168627451);
 }
 .archx-feature-cta-text a {
-  color: #D28F51;
+  color: #1aa6f8;
 }
 
 .archx-produce-section {
@@ -5834,7 +5834,7 @@ body {
 .archx-about-experience {
   width: 170px;
   height: 275px;
-  border: 1px solid #D28F51;
+  border: 1px solid #1aa6f8;
 }
 .archx-about-experience .archx-about-exp-text h3 {
   font-size: 50px;
@@ -7060,7 +7060,7 @@ body {
   margin-right: 5px;
 }
 .archx-footer-content .archx-footer-widget .aw-btn-wrap span {
-  color: #DD1D26;
+  color: #1aa6f8;
 }
 .archx-footer-content .archx-footer-widget .aw-btn-wrap .aw-line {
   bottom: 0;

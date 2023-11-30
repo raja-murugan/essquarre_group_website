@@ -32,7 +32,7 @@
 									has been the dard dummy text ever since the 1500s.</p>
 								<div class="arck-btn-2">
 									<a class="d-flex justify-content-center align-items-center text-uppercase"
-										href="javascript:void(0)">View Works</a>
+										href="work.php">View Work</a>
 								</div>
 							</div>
 						</div>
@@ -64,7 +64,7 @@
 						<div class="arck-about-text-wrap-2">
 							<div class="arck-section-title-2 headline pera-content wow fadeInUp" data-wow-delay="400ms"
 								data-wow-duration="1500ms">
-								<span class="sub-title text-uppercase">About Archix</span>
+								<span class="sub-title text-uppercase">About Essquarre</span>
 								<h2>We Provide Best <span>Interior
 										Design</span> Experience.</h2>
 								<p>Lorem Ipsum is simply dummy text of the printing and typesetting indust. Lorem Ipsum
@@ -81,8 +81,7 @@
 									<h3>‘’Information architecture helps organize
 										content overall so it’s easy to find and
 										Imagine a storeroom filled use’’ </h3>
-									<span class="sign-img position-absolute"><img src="assets/img/about/sign.png"
-											alt=""></span>
+									
 								</div>
 							</div>
 							<div class="arck-btn-2 wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
@@ -106,26 +105,26 @@
 				<div class="row">
 					<div class="col-lg-3 col-md-6">
 						<div class="arck-counter-inner-item headline pera-content text-center position-relative">
-							<h3><span class="counter">30</span>k+</h3>
-							<p>Happy Clients</p>
+							<h3><span >2007</span>+</h3>
+							<p>Year of Establish</p>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6">
 						<div class="arck-counter-inner-item headline pera-content text-center position-relative">
-							<h3><span class="counter">34</span>k+</h3>
-							<p>Completed Projects</p>
+							<h3><span class="counter">16</span>+</h3>
+							<p>Years of Experience</p>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6">
 						<div class="arck-counter-inner-item headline pera-content text-center position-relative">
-							<h3><span class="counter">212</span>+</h3>
-							<p>Expert Engineer</p>
+							<h3><span class="counter">10</span>+</h3>
+							<p>Expert Architects</p>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6">
 						<div class="arck-counter-inner-item headline pera-content text-center position-relative">
-							<h3><span class="counter">100</span>+</h3>
-							<p>National Awards </p>
+							<h3><span class="counter">40</span>+</h3>
+							<p> Awards </p>
 						</div>
 					</div>
 				</div>
@@ -180,7 +179,7 @@
 								<img src="assets/icon/ic11.png" alt="">
 							</div>
 							<div class="inner-text headline pera-content">
-								<h3><a href="javascript:void(0)">Planning & Design</a></h3>
+								<h3><a href="javascript:void(0)">Building Management</a></h3>
 								<p>Prepare to meet the one and only For
 									the WordPress theme perfect for both offer in the corporate ativeects.
 								</p>
@@ -196,7 +195,7 @@
 								<img src="assets/icon/ic12.png" alt="">
 							</div>
 							<div class="inner-text headline pera-content">
-								<h3><a href="javascript:void(0)">Custom Solutions</a></h3>
+								<h3><a href="javascript:void(0)">2D Drawings</a></h3>
 								<p>Prepare to meet the one and only For
 									the WordPress theme perfect for both offer in the corporate ativeects.
 								</p>
@@ -212,7 +211,7 @@
 								<img src="assets/icon/ic13.png" alt="">
 							</div>
 							<div class="inner-text headline pera-content">
-								<h3><a href="javascript:void(0)">Furniture & Decor</a></h3>
+								<h3><a href="javascript:void(0)">Fabrication Details</a></h3>
 								<p>Prepare to meet the one and only For
 									the WordPress theme perfect for both offer in the corporate ativeects.
 								</p>
@@ -220,53 +219,6 @@
 						</div>
 					</div>
 
-					<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="800ms" data-wow-duration="1500ms">
-						<div class="arck-service-item-2 position-relative">
-							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png"
-									alt=""></span>
-							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-								<img src="assets/icon/ic14.png" alt="">
-							</div>
-							<div class="inner-text headline pera-content">
-								<h3><a href="javascript:void(0)">3D Animation</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
-								</p>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="1000ms" data-wow-duration="1500ms">
-						<div class="arck-service-item-2 position-relative">
-							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png"
-									alt=""></span>
-							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-								<img src="assets/icon/ic15.png" alt="">
-							</div>
-							<div class="inner-text headline pera-content">
-								<h3><a href="javascript:void(0)">House Renovation</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
-								</p>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="1200ms" data-wow-duration="1500ms">
-						<div class="arck-service-item-2 position-relative">
-							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png"
-									alt=""></span>
-							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-								<img src="assets/icon/ic16.png" alt="">
-							</div>
-							<div class="inner-text headline pera-content">
-								<h3><a href="javascript:void(0)">Ideas & Inspiration</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
-								</p>
-							</div>
-						</div>
-					</div>
 				</div>
 			</div>
 		</div>

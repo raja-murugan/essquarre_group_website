@@ -62,11 +62,11 @@
 							<div class="menu-widget">
 								<h3 class="widget-title">Services</h3>
 								<ul>
-									<li><a href="service.php">Services 1</a></li>
-									<li><a href="service.php">Services 2</a></li>
-									<li><a href="service.php">Services 3</a></li>
-									<li><a href="service.php">Services 4</a></li>
-									<li><a href="service.php">Services 5</a></li>
+									<li><a href="service.php">Building Management</a></li>
+									<li><a href="service.php">2D Drawings</a></li>
+									<li><a href="service.php">Analyses</a></li>
+									<li><a href="service.php">Fabrication Details</a></li>
+									<li><a href="service.php">3D Visualisation</a></li>
 								</ul>
 							</div>
 						</div>

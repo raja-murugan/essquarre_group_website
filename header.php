@@ -3,12 +3,12 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>Home Page 3</title>
+	<title>Essquarre</title>
 	<meta name="description" content="Archix - Architecture and Interior Design HTML Template">
 	<meta name="keywords"
 		content="apartments, architect, architecture, building, clean, construction, creative, decoration, interior design, minimal, modern, portfolio, residence, studio">
 	<meta name="author" content="Themexriver">
-	<link rel="shortcut icon" href="assets/img/logo/ficon.png" type="image/x-icon">
+	<link rel="shortcut icon" href="assets/img/logo/logo-5.png" type="image/x-icon">
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -43,7 +43,7 @@
 					</div>
 				</div>
 				<div class="brand-logo">
-					<a href="index.php"><img src="assets/img/logo/logo-5.png" alt=""></a>
+					<a href="index.php"><img src="assets/img/logo/logo-5.png" alt="" style="margin-left: 70px; height: 70px;"></a>
 				</div>
 			</div>
 			<div class="header-cta-btn-wrapper d-flex align-items-center">
@@ -133,7 +133,7 @@
 					<div class="sidebar-info-contents headline pera-content">
 						<div class="content-inner">
 							<div class="logo">
-								<a href="index.php"><img src="assets/img/logo/logo-3.png" alt=""></a>
+								<a href="index.php"><img src="assets/img/logo/logo-5.png" alt=""></a>
 							</div>
 							<div class="content-box">
 								<h5>About Us</h5>

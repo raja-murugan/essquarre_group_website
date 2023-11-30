@@ -1,4 +1,20 @@
 <?php include('header.php') ?>
+<!-- <style>
+	.inner-icon img:nth-child(2) 
+	{
+  		display: none; 
+	}
+
+	.inner-icon:hover img:nth-child(1) 
+	{
+  		display: none;
+	}
+
+	.inner-icon:hover img:nth-child(2) 
+	{
+  	display: block;
+	}
+</style> -->
 
 <!-- Start of Breadcrumb section
 	============================================= -->
@@ -30,6 +46,7 @@
 							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
 							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
 								<img src="assets/icon/ic11.png" alt="">
+								<!-- <img src="assets/icon/ic21.png" alt=""> -->
 							</div>
 							<div class="inner-text headline pera-content">
 								<h3><a href="javascript:void(0)">Building Management</a></h3>
@@ -169,7 +186,7 @@
 					<div class="col-lg-4 col-md-6">
 						<div class="arck-work-process-item text-center position-relative">
 							<div class="inner-icon">
-								<img src="assets/icon/ic4.png" alt="">
+								<img src="assets/icon/icon4.png" alt="">
 							</div>
 							<div class="inner-text headline pera-content">
 								<h3>Planning & Design</h3>
@@ -184,7 +201,7 @@
 					<div class="col-lg-4 col-md-6">
 						<div class="arck-work-process-item text-center position-relative">
 							<div class="inner-icon">
-								<img src="assets/icon/ic5.png" alt="">
+								<img src="assets/icon/icon5.png" alt="">
 							</div>
 							<div class="inner-text headline pera-content">
 								<h3>Draws & Sketches</h3>
@@ -199,7 +216,7 @@
 					<div class="col-lg-4 col-md-6">
 						<div class="arck-work-process-item text-center position-relative">
 							<div class="inner-icon">
-								<img src="assets/icon/ic6.png" alt="">
+								<img src="assets/icon/icon6.png" alt="">
 							</div>
 							<div class="inner-text headline pera-content">
 								<h3>Start Building</h3>

@@ -38,7 +38,7 @@
 					<div class="col-lg-6">
 						<div class="arck-about-text-wrap-2">
 							<div class="arck-section-title headline pera-content">
-								<span class="sub-title text-uppercase">About Archix</span>
+								<span class="sub-title text-uppercase">About Essquarre</span>
 								<h2>We Provide Best <span>Interior
 								Design</span> Experience.</h2>
 								<p>Lorem Ipsum is simply dummy text of the printing and typesetting indust. Lorem Ipsum has been the dard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to a type speci  men book. It has survived not turies</p>
@@ -52,14 +52,13 @@
 										content overall so it’s easy to find and
 									Imagine a storeroom filled use’’ </h3>
 									<div class="about-author">
-										<h4>Mrowni Rosen</h4>
+										<h4>Suresh Subramanian</h4>
 										<span>CEO & Founder</span>
 									</div>
-									<span class="sign-img position-absolute"><img src="assets/img/about/sign.png" alt=""></span>
 								</div>
 							</div>
 							<div class="arck-btn">
-								<a class="d-flex justify-content-center align-items-center text-uppercase" href="work.php">View Works</a>
+								<a class="d-flex justify-content-center align-items-center text-uppercase" href="work.php">View Work</a>
 							</div>
 						</div>
 					</div>
@@ -254,26 +253,26 @@
 				<div class="row">
 					<div class="col-lg-3 col-md-6">
 						<div class="arck-counter-inner-item headline pera-content text-center position-relative">
-							<h3><span>30</span>k+</h3>
-							<p>Happy Clients</p>
+							<h3><span>2007</span></h3>
+							<p>Year of Establish</p>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6">
 						<div class="arck-counter-inner-item headline pera-content text-center position-relative">
-							<h3><span>34</span>k+</h3>
-							<p>Completed Projects</p>
+							<h3><span>16</span>+</h3>
+							<p>Years of Experience</p>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6">
 						<div class="arck-counter-inner-item headline pera-content text-center position-relative">
-							<h3><span>212</span>+</h3>
-							<p>Expert Engineer</p>
+							<h3><span>10</span>+</h3>
+							<p>Expert Architect</p>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6">
 						<div class="arck-counter-inner-item headline pera-content text-center position-relative">
-							<h3><span>100</span>+</h3>
-							<p>National Awards </p>
+							<h3><span>40</span>+</h3>
+							<p> Awards </p>
 						</div>
 					</div>
 				</div>

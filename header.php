@@ -3,12 +3,12 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>Essquarre</title>
-	<meta name="description" content="Archix - Architecture and Interior Design HTML Template">
+	<title>Essquarre - Architecture and Interior Design</title>
+	<meta name="description" content="Essquarre - Architecture and Interior Design">
 	<meta name="keywords"
 		content="apartments, architect, architecture, building, clean, construction, creative, decoration, interior design, minimal, modern, portfolio, residence, studio">
 	<meta name="author" content="Themexriver">
-	<link rel="shortcut icon" href="assets/img/logo/logo-5.png" type="image/x-icon">
+	<link rel="shortcut icon" href="assets/img/logo/logo.png" type="image/x-icon">
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -42,8 +42,8 @@
 						<span></span>
 					</div>
 				</div>
-				<div class="brand-logo">
-					<a href="index.php"><img src="assets/img/logo/logo-5.png" alt="" style="margin-left: 70px; height: 70px;"></a>
+				<div class="brand-logo" style="margin-left:-30px;">
+					<a href="index.php"><img src="assets/img/logo/logo-5.png" alt="" style="margin-left: 70px; height: 50px;"></a>
 				</div>
 			</div>
 			<div class="header-cta-btn-wrapper d-flex align-items-center">
@@ -52,6 +52,7 @@
 						<ul id="main-nav" class="nav navbar-nav clearfix">
 							<li><a href="index.php">Home</a></li>
 							<li><a href="about.php">About</a></li>
+							<li><a href="group.php">Group</a></li>
 							<li><a href="service.php">Services</a></li>
 							<li><a href="work.php">Work</a></li>
 							<li><a href="contact.php">Contact</a></li>
@@ -90,6 +91,7 @@
 							<ul id="m-main-nav" class="nav navbar-nav clearfix">
 								<li><a href="index.php">Home</a></li>
 								<li><a href="about.php">About</a></li>
+								<li><a href="group.php">Group</a></li>
 								<li><a href="service.php">Services</a></li>
 								<li><a href="work.php">Work</a></li>
 								<li><a href="contact.php">Contact</a></li>

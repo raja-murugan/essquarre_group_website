@@ -154,7 +154,7 @@ body {
   left: 0px;
 }
 .arck-appointment-form-wrap form button:hover:after, .arck-btn a:hover:after {
-  background-color: #ff6d33;
+  background-color: #ffbe00;
 }
 
 @-webkit-keyframes Move_animation_1 {
@@ -225,7 +225,7 @@ body {
   border-radius: 100%;
   -webkit-transition: 800ms all ease;
   transition: 800ms all ease;
-  background-color: #ff6d33;
+  background-color: #ffbe00;
 }
 .arck-btn-2 a:hover:before {
   -webkit-animation: Move_animation_1 12s infinite linear alternate;
@@ -2650,6 +2650,7 @@ body {
   height: 100%;
   position: absolute;
   background-image: url(../img/bg/ta-bg.jpg);
+  opacity: 0.5;
 }
 
 .arck-testimonial-appointment-content .arck-testimonial-text-wrap {
@@ -2820,7 +2821,7 @@ body {
   color: var(--white-color);
 }
 .arck-appointment-form-wrap form button:hover:after {
-  background-color: #ff6d33;
+  background-color: #ffbe00;
 }
 
 .arck-video-cta-wrap {
@@ -4490,7 +4491,7 @@ body {
   transition: 500ms all ease;
 }
 .archx-header-section .header-cta-btn a:hover {
-  background-color: #ff6d33;
+  background-color: #ffbe00;
 }
 .archx-header-section .header-cta-btn a:hover i {
   margin-left: 10px;
@@ -4548,7 +4549,7 @@ body {
 .archx-slider-section .archx-slider-side1 {
   top: 90px;
   left: 30px;
-  color: #fff;
+  color: #ffffff;
   -webkit-writing-mode: vertical-lr;
       -ms-writing-mode: tb-lr;
           writing-mode: vertical-lr;

@@ -73,8 +73,7 @@
 								<div class="arck-section-title headline pera-content">
 									<span class="sub-title text-uppercase">Get A Quote</span>
 									<h2>Keep Get in Touch</h2>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor labore et dolore magna aliqua
-									</p>
+									<p>Stay Connected, Elevate Spaces. Get in Touch for Inspired Design Solutions.</p>
 								</div>
 								<form action="#" method="get">
 									<div class="row">

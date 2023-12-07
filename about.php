@@ -39,18 +39,18 @@
 						<div class="arck-about-text-wrap-2">
 							<div class="arck-section-title headline pera-content">
 								<span class="sub-title text-uppercase">About Essquarre</span>
-								<h2>We Provide Best <span>Interior
-								Design</span> Experience.</h2>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting indust. Lorem Ipsum has been the dard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to a type speci  men book. It has survived not turies</p>
+								<h2>Shaping <span>Design</span> Futures Since 2007</h2>
+								<p>Established in 2007, Essquarre Associates has been a pioneering force, offering comprehensive design, engineering, and project management services. Our commitment to innovation and excellence, coupled with personalized attention, ensures enduring client satisfaction. 
+									Our experienced team aligns expertise with unique client needs, fostering long-term relationships. 
+									Explore the essence of design and unparalleled service with Essquarre Associates.
+								</p>
 							</div>
 							<div class="about-signature-img d-flex wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
 								<div class="inner-img">
 									<img src="assets/img/about/abs1.jpg" alt="">
 								</div>
 								<div class="inner-text headline  position-relative">
-									<h3>‘’Information architecture helps organize
-										content overall so it’s easy to find and
-									Imagine a storeroom filled use’’ </h3>
+									<h3>‘’At Essquarre, our information architecture, like a well-designed home, ensures easy access to your unique design journey.’’ </h3>
 									<div class="about-author">
 										<h4>Suresh Subramanian</h4>
 										<span>CEO & Founder</span>
@@ -69,6 +69,42 @@
 <!-- End of about page about section
 	============================================= -->
 
+<!-- Start of Sponsor section
+	============================================= -->
+	<section id="arck-sponsor" class="arck-sponsor-section">
+		<div class="container">
+			<div class="arck-sponsor-slider">
+				<div class="arck-sponsor-slider-item">
+					<img src="assets/img/sponsor/sp1.png">
+				</div>
+				<div class="arck-sponsor-slider-item">
+					<img src="assets/img/sponsor/sp2.png">
+				</div>
+				<div class="arck-sponsor-slider-item">
+					<img src="assets/img/sponsor/sp3.png">
+				</div>
+				<div class="arck-sponsor-slider-item">
+					<img src="assets/img/sponsor/sp4.png">
+				</div>
+				<div class="arck-sponsor-slider-item">
+					<img src="assets/img/sponsor/sp5.png">
+				</div>
+				<div class="arck-sponsor-slider-item">
+					<img src="assets/img/sponsor/sp1.png">
+				</div>
+				<div class="arck-sponsor-slider-item">
+					<img src="assets/img/sponsor/sp2.png">
+				</div>
+				<div class="arck-sponsor-slider-item">
+					<img src="assets/img/sponsor/sp3.png">
+				</div>
+			</div>
+		</div>
+	</section>		
+<!-- End of Sponsor section
+	============================================= -->
+
+
 <!-- Start of Service section
 	============================================= -->
 	<section id="arck-service" class="arck-service-section">
@@ -82,13 +118,11 @@
 								<img src="assets/img/service/ser1.jpg" alt="">
 							</div>
 							<div class="inner-icon position-relative">
-								<img src="assets/icon/ic1.png" alt="">
+								<img src="assets/icon1/6.png" alt="">
 							</div>
 							<div class="arck-inner-text headline pera-content">
 								<h3><a href="javascript:void(0)">Architect Design</a></h3>
-								<p>Excepteur sint occaecat cupidat proident,
-									sunt in culpa quoi officia terunt mollit anim
-								id est laborum. Sed perspiciatis</p>
+								<p>Elevate spaces with visionary architect design, blending aesthetics and functionality for enduring, captivating structures.</p>
 								<a class="btn-more text-uppercase" href="javascript:void(0)">Read More <i class="fal fa-arrow-right"></i></a>
 							</div>
 						</div>
@@ -97,16 +131,14 @@
 						<div class="arck-service-item text-center position-relative">
 							<span class="serial-no position-absolute">02</span>
 							<div class="hover-img position-absolute">
-								<img src="assets/img/service/ser1.jpg" alt="">
+								<img src="assets/img/service/ser2.jpg" alt="">
 							</div>
 							<div class="inner-icon position-relative">
-								<img src="assets/icon/ic2.png" alt="">
+								<img src="assets/icon1/7.png" alt="">
 							</div>
 							<div class="arck-inner-text headline pera-content">
 								<h3><a href="javascript:void(0)">Interior Design</a></h3>
-								<p>Excepteur sint occaecat cupidat proident,
-									sunt in culpa quoi officia terunt mollit anim
-								id est laborum. Sed perspiciatis</p>
+								<p>Crafting lifestyles with personalized interior design—where innovation meets elegance, creating spaces that resonate with individuality.</p>
 								<a class="btn-more text-uppercase" href="javascript:void(0)">Read More <i class="fal fa-arrow-right"></i></a>
 							</div>
 						</div>
@@ -115,16 +147,14 @@
 						<div class="arck-service-item text-center position-relative">
 							<span class="serial-no position-absolute">03</span>
 							<div class="hover-img position-absolute">
-								<img src="assets/img/service/ser1.jpg" alt="">
+								<img src="assets/img/service/ser3.jpg" alt="">
 							</div>
 							<div class="inner-icon position-relative">
-								<img src="assets/icon/ic3.png" alt="">
+								<img src="assets/icon1/8.png" alt="">
 							</div>
 							<div class="arck-inner-text headline pera-content">
 								<h3><a href="javascript:void(0)">Construction Building</a></h3>
-								<p>Excepteur sint occaecat cupidat proident,
-									sunt in culpa quoi officia terunt mollit anim
-								id est laborum. Sed perspiciatis</p>
+								<p>Building dreams into reality. Our construction expertise ensures quality, precision, and timely delivery for enduring, functional structures.</p>
 								<a class="btn-more text-uppercase" href="javascript:void(0)">Read More <i class="fal fa-arrow-right"></i></a>
 							</div>
 						</div>
@@ -142,8 +172,7 @@
 		<div class="background_overlay"></div>
 		<div class="container">
 			<div class="arck-cta-content text-center headline position-relative">
-				<h2>We Provide Affortable Services Save
-				Time &  Save Mony. </h2>
+				<h2>Your Budget, Our Priority : Affordable Services, Saving You Time and Money.</h2>
 				<div class="arck-cta-button-group d-flex justify-content-center">
 					<div class="arck-btn">
 						<a class="d-flex justify-content-center align-items-center text-uppercase" href="contact.php">Contact Us</a>
@@ -177,48 +206,48 @@
 									<div class="accordion-item headline-2 pera-content wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
 										<h2 class="accordion-header" id="headingOne2">
 											<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne2" aria-expanded="true" aria-controls="collapseOne">
-												How to contact with your agent?
+											What services does Essquarre groups offer ?
 											</button>
 										</h2>
 										<div id="collapseOne2" class="accordion-collapse collapse show" aria-labelledby="headingOne2" data-bs-parent="#accordionExample2">
 											<div class="accordion-body">
-												We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleas ure of the moment, so blinded by desire,
+											Essquare provides comprehensive interior design, architectural services, and project management for residential and commercial spaces.
 											</div>
 										</div>
 									</div>
 									<div class="accordion-item headline-2 pera-content wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
 										<h2 class="accordion-header" id="headingTwo2">
 											<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo2" aria-expanded="false" aria-controls="collapseTwo2">
-												How can i install this theme?
+											How does Essquarre ensure design uniqueness ?
 											</button>
 										</h2>
 										<div id="collapseTwo2" class="accordion-collapse collapse" aria-labelledby="headingTwo2" data-bs-parent="#accordionExample2">
 											<div class="accordion-body">
-												We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleas ure of the moment, so blinded by desire, 
+											We prioritize personalized design by understanding client preferences, blending creativity with functionality to create unique and tailored spaces.
 											</div>
 										</div>
 									</div>
 									<div class="accordion-item headline-2 pera-content wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
 										<h2 class="accordion-header" id="headingThree2">
 											<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree2" aria-expanded="false" aria-controls="collapseThree2">
-												How can i make dmca on copy item?
+											Can Essquarre cater to specific design styles or themes ?
 											</button>
 										</h2>
 										<div id="collapseThree2" class="accordion-collapse collapse" aria-labelledby="headingThree2" data-bs-parent="#accordionExample2">
 											<div class="accordion-body">
-												We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleas ure of the moment, so blinded by desire,
+											Yes, our team is adept at adapting to various design styles, ensuring your space reflects your personality, preferences, and lifestyle.
 											</div>
 										</div>
 									</div>
 									<div class="accordion-item headline-2 pera-content wow fadeInUp" data-wow-delay="800ms" data-wow-duration="1500ms">
 										<h2 class="accordion-header" id="headingFour">
 											<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-												How to despout on this product?
+											How does Essquare manage project costs ?
 											</button>
 										</h2>
 										<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample2">
 											<div class="accordion-body">
-												We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleas ure of the moment, so blinded by desire, 
+											We offer affordable services without compromising quality, ensuring value for money and transparent communication throughout the project. 
 											</div>
 										</div>
 									</div>
@@ -307,43 +336,46 @@
 								<div class="arck-testimonial-slider">
 									<div class="arck-teestimonial-item">
 										<div class="inner-text position-relative">
-											<i class="fas fa-quote-left"></i> Rorem Ipsum is simply dummy text of the printing and typesetting industry. dummy text ever since the 1500s throughout the duration of your project the of your renovation
+											<i class="fas fa-quote-left"></i>
+											Essquarre made our dream home a reality. The personalized service and attention to detail surpassed expectations. Highly recommended!
 										</div>
-										<div class="inner-author">
+										<div class="inner-author d-flex">
 											<div class="author-img">
 												<img src="assets/img/about/tst1.jpg" alt="">
 											</div>
 											<div class="author-text headline">
-												<h3>Thone De Smith </h3>
-												<span>House Owner</span>
+												<h3>Saranya R</h3>
+												<span>Chennai, Tamil Nadu</span>
 											</div>
 										</div>
 									</div>
 									<div class="arck-teestimonial-item">
 										<div class="inner-text position-relative">
-											<i class="fas fa-quote-left"></i> Rorem Ipsum is simply dummy text of the printing and typesetting industry. dummy text ever since the 1500s throughout the duration of your project the of your renovation
+											<i class="fas fa-quote-left"></i>
+											Exceptional work! Essquarre's expertise transformed our space. Professionalism, creativity, and a personal touch—impressed with the result!
 										</div>
-										<div class="inner-author">
+										<div class="inner-author d-flex">
 											<div class="author-img">
 												<img src="assets/img/about/tst1.jpg" alt="">
 											</div>
 											<div class="author-text headline">
-												<h3>Thone De Smith </h3>
-												<span>House Owner</span>
+												<h3>Rajesh M</h3>
+												<span>Coimbatore, Tamil Nadu</span>
 											</div>
 										</div>
 									</div>
 									<div class="arck-teestimonial-item">
 										<div class="inner-text position-relative">
-											<i class="fas fa-quote-left"></i> Rorem Ipsum is simply dummy text of the printing and typesetting industry. dummy text ever since the 1500s throughout the duration of your project the of your renovation
+											<i class="fas fa-quote-left"></i> 
+											Essquarre Associates stands out for their innovation and dedication. From design to execution, they delivered excellence. Highly satisfied with our project!
 										</div>
-										<div class="inner-author">
+										<div class="inner-author d-flex">
 											<div class="author-img">
 												<img src="assets/img/about/tst1.jpg" alt="">
 											</div>
 											<div class="author-text headline">
-												<h3>Thone De Smith </h3>
-												<span>House Owner</span>
+												<h3>Karthik N</h3>
+												<span>Trichy, Tamil Nadu</span>
 											</div>
 										</div>
 									</div>

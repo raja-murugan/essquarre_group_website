@@ -67,6 +67,8 @@
 									<li><a href="service.php">Analyses</a></li>
 									<li><a href="service.php">Fabrication Details</a></li>
 									<li><a href="service.php">3D Visualisation</a></li>
+									<li><a href="service.php">Project Management</a></li>
+									
 								</ul>
 							</div>
 						</div>
@@ -78,6 +80,7 @@
 								<ul>
 									<li><a href="index.php">Home</a></li>
 									<li><a href="about.php">About</a></li>
+									<li><a href="group.php">Group</a></li>
 									<li><a href="service.php">Services</a></li>
 									<li><a href="work.php">Work</a></li>
 									<li><a href="contact.php">Contact</a></li>
@@ -91,7 +94,7 @@
 
 		<div class="row arck-footer-copyright">
 			<div class="col-lg-6 col-md-6 text-left">
-				© Copyright 2023 essquarre All rights reserved <a href="https://zworktechnology.com/" target="_blank">Zwork
+			Copyright © 2023 Essquarre . All rights reserved <a href="https://zworktechnology.com/" target="_blank">Zwork
 					Technology</a>
 			</div>
 			<div class="col-lg-6 col-md-6 text-right">

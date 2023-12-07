@@ -24,12 +24,11 @@
 						<div class="container">
 							<div class="arck-slider-main-text headline pera-content">
 								<div class="slider-sub-text text-uppercase">
-									Interior Design
+									Essquarre
 								</div>
-								<h1>We Are <span>Creative
-										Interior</span> Designer.</h1>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting
-									has been the dard dummy text ever since the 1500s.</p>
+								<h1>Innovate, Integrate, 
+									Inspire Your Living Spaces.</h1>
+								<p>Essquare seamlessly blends innovation and style to create spaces that inspire and captivate.</p>
 								<div class="arck-btn-2">
 									<a class="d-flex justify-content-center align-items-center text-uppercase"
 										href="work.php">View Work</a>
@@ -65,11 +64,10 @@
 							<div class="arck-section-title-2 headline pera-content wow fadeInUp" data-wow-delay="400ms"
 								data-wow-duration="1500ms">
 								<span class="sub-title text-uppercase">About Essquarre</span>
-								<h2>We Provide Best <span>Interior
-										Design</span> Experience.</h2>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting indust. Lorem Ipsum
-									has been the dard dummy text ever since the 1500s, when an unknown printer took a
-									galley of type and scrambled it to a type speci men book. It has survived not turies
+								<h2>Shaping <span>Design </span> Futures Since 2007</h2>
+								<p>Established in 2007, Essquarre Associates has been a pioneering force, offering comprehensive design, engineering, and project management services. 
+									Our commitment to innovation and excellence, coupled with personalized attention, ensures enduring client satisfaction. Our experienced team aligns expertise with unique client needs, fostering long-term relationships. 
+									Explore the essence of design and unparalleled service with Essquarre Associates.
 								</p>
 							</div>
 							<div class="about-signature-img d-flex wow fadeInUp" data-wow-delay="400ms"
@@ -78,9 +76,7 @@
 									<img src="assets/img/about/abs1.jpg" alt="">
 								</div>
 								<div class="inner-text headline  position-relative">
-									<h3>‘’Information architecture helps organize
-										content overall so it’s easy to find and
-										Imagine a storeroom filled use’’ </h3>
+									<h3>‘’At Essquare, our information architecture, like a well-designed home, ensures easy access to your unique design journey.’’ </h3>
 									
 								</div>
 							</div>
@@ -105,7 +101,7 @@
 				<div class="row">
 					<div class="col-lg-3 col-md-6">
 						<div class="arck-counter-inner-item headline pera-content text-center position-relative">
-							<h3><span >2007</span>+</h3>
+							<h3><span >2007</span></h3>
 							<p>Year of Establish</p>
 						</div>
 					</div>
@@ -141,8 +137,7 @@
 			<div class="arck-section-title-2 headline text-center pera-content wow fadeInUp" data-wow-delay="200ms"
 				data-wow-duration="1500ms">
 				<span class="sub-title text-uppercase">Before & After</span>
-				<h2>Transformation of <span>Our
-						Interior</span> Design.</h2>
+				<h2>Transformative <span>Design </span> Journeys.</h2>
 			</div>
 			<div class="arck-before-after-content">
 				<div id="beforeafter" class="twentytwenty-container">
@@ -166,9 +161,8 @@
 			<div class="arck-section-title-2 headline text-center pera-content wow fadeInUp" data-wow-delay="200ms"
 				data-wow-duration="1500ms">
 				<span class="sub-title text-uppercase">Pricing Plan</span>
-				<h2>Our World Class <span>Qualityful
-						Interior</span> Services.</h2>
-			</div>
+				<h2>Value Meets<span> Convenience</span></h2>
+			</div> 
 			<div class="arck-service-content-2">
 				<div class="row">
 					<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
@@ -180,9 +174,7 @@
 							</div>
 							<div class="inner-text headline pera-content">
 								<h3><a href="javascript:void(0)">Building Management</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
-								</p>
+								<p>Enhance facilities with our management solutions, ensuring efficiency, security, and comfort for seamless<br>operations.</p>
 							</div>
 						</div>
 					</div>
@@ -196,9 +188,7 @@
 							</div>
 							<div class="inner-text headline pera-content">
 								<h3><a href="javascript:void(0)">2D Drawings</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
-								</p>
+								<p>Detail-oriented precision. Our 2D drawings set the foundation for impeccable design execution and construction accuracy.</p>
 							</div>
 						</div>
 					</div>
@@ -212,9 +202,7 @@
 							</div>
 							<div class="inner-text headline pera-content">
 								<h3><a href="javascript:void(0)">Fabrication Details</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
-								</p>
+								<p>Precise craftsmanship. Our fabrication details guide construction, ensuring quality and precision in every element's production.</p>
 							</div>
 						</div>
 					</div>
@@ -242,49 +230,46 @@
 								<div class="arck-testimonial-slider">
 									<div class="arck-teestimonial-item">
 										<div class="inner-text position-relative">
-											<i class="fas fa-quote-left"></i> Rorem Ipsum is simply dummy text of the
-											printing and typesetting industry. dummy text ever since the 1500s
-											throughout the duration of your project the of your renovation
+											<i class="fas fa-quote-left"></i>
+											Essquarre made our dream home a reality. The personalized service and attention to detail surpassed expectations. Highly recommended!
 										</div>
 										<div class="inner-author d-flex">
 											<div class="author-img">
 												<img src="assets/img/about/tst1.jpg" alt="">
 											</div>
 											<div class="author-text headline">
-												<h3>Thone De Smith </h3>
-												<span>House Owner</span>
+												<h3>Saranya R</h3>
+												<span>Chennai, Tamil Nadu</span>
 											</div>
 										</div>
 									</div>
 									<div class="arck-teestimonial-item">
 										<div class="inner-text position-relative">
-											<i class="fas fa-quote-left"></i> Rorem Ipsum is simply dummy text of the
-											printing and typesetting industry. dummy text ever since the 1500s
-											throughout the duration of your project the of your renovation
+											<i class="fas fa-quote-left"></i>
+											Exceptional work! Essquarre's expertise transformed our space. Professionalism, creativity, and a personal touch—impressed with the result!
 										</div>
 										<div class="inner-author d-flex">
 											<div class="author-img">
 												<img src="assets/img/about/tst1.jpg" alt="">
 											</div>
 											<div class="author-text headline">
-												<h3>Thone De Smith </h3>
-												<span>House Owner</span>
+												<h3>Rajesh M</h3>
+												<span>Coimbatore, Tamil Nadu</span>
 											</div>
 										</div>
 									</div>
 									<div class="arck-teestimonial-item">
 										<div class="inner-text position-relative">
-											<i class="fas fa-quote-left"></i> Rorem Ipsum is simply dummy text of the
-											printing and typesetting industry. dummy text ever since the 1500s
-											throughout the duration of your project the of your renovation
+											<i class="fas fa-quote-left"></i> 
+											Essquarre Associates stands out for their innovation and dedication. From design to execution, they delivered excellence. Highly satisfied with our project!
 										</div>
 										<div class="inner-author d-flex">
 											<div class="author-img">
 												<img src="assets/img/about/tst1.jpg" alt="">
 											</div>
 											<div class="author-text headline">
-												<h3>Thone De Smith </h3>
-												<span>House Owner</span>
+												<h3>Karthik N</h3>
+												<span>Trichy, Tamil Nadu</span>
 											</div>
 										</div>
 									</div>

@@ -50,9 +50,7 @@
 							</div>
 							<div class="inner-text headline pera-content">
 								<h3><a href="javascript:void(0)">Building Management</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
-								</p>
+								<p>Enhance facilities with our management solutions, ensuring efficiency, security, and comfort for seamless operations.</p>
 							</div>
 						</div>
 					</div>
@@ -64,65 +62,7 @@
 							</div>
 							<div class="inner-text headline pera-content">
 								<h3><a href="javascript:void(0)">Analyses</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6">
-						<div class="arck-service-item-2 position-relative">
-							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
-							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-								<img src="assets/icon/ic13.png" alt="">
-							</div>
-							<div class="inner-text headline pera-content">
-								<h3><a href="javascript:void(0)">2D Drawings</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6">
-						<div class="arck-service-item-2 position-relative">
-							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
-							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-								<img src="assets/icon/ic14.png" alt="">
-							</div>
-							<div class="inner-text headline pera-content">
-								<h3><a href="javascript:void(0)">3D Visualisation</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6">
-						<div class="arck-service-item-2 position-relative">
-							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
-							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-								<img src="assets/icon/ic15.png" alt="">
-							</div>
-							<div class="inner-text headline pera-content">
-								<h3><a href="javascript:void(0)">Project Management</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6">
-						<div class="arck-service-item-2 position-relative">
-							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
-							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-								<img src="assets/icon/ic16.png" alt="">
-							</div>
-							<div class="inner-text headline pera-content">
-								<h3><a href="javascript:void(0)">Fabrication Details</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
-								</p>
+								<p>Crafting precision. Essquarre's fabrication details ensure quality, creating bespoke elements with excellence.</p>
 							</div>
 						</div>
 					</div>
@@ -134,9 +74,55 @@
 							</div>
 							<div class="inner-text headline pera-content">
 								<h3><a href="javascript:void(0)">Bills of Quantities</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
-								</p>
+								<p>Efficient cost planning. Essquarre's bills provide transparent and accurate financial management for projects.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6">
+						<div class="arck-service-item-2 position-relative">
+							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
+							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
+								<img src="assets/icon/ic16.png" alt="">
+							</div>
+							<div class="inner-text headline pera-content">
+								<h3><a href="javascript:void(0)">Fabrication Details</a></h3>
+								<p>Precise craftsmanship. Our fabrication details guide construction, ensuring quality and precision in every element's production.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6">
+						<div class="arck-service-item-2 position-relative">
+							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
+							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
+								<img src="assets/icon/ic13.png" alt="">
+							</div>
+							<div class="inner-text headline pera-content">
+								<h3><a href="javascript:void(0)">2D Drawings</a></h3>
+								<p>Detail-oriented precision. Our 2D drawings set the foundation for impeccable design execution and construction accuracy.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6">
+						<div class="arck-service-item-2 position-relative">
+							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
+							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
+								<img src="assets/icon/ic14.png" alt="">
+							</div>
+							<div class="inner-text headline pera-content">
+								<h3><a href="javascript:void(0)">3D Visualisation</a></h3>
+								<p>See your dreams unfold. Essquarre's 3D visualizations bring designs to life beautifully.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6">
+						<div class="arck-service-item-2 position-relative">
+							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
+							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
+								<img src="assets/icon/ic15.png" alt="">
+							</div>
+							<div class="inner-text headline pera-content">
+								<h3><a href="javascript:void(0)">Project Management</a></h3>
+								<p>Essquarre oversees, ensuring timelines, budgets, and quality meet impeccable standards effortlessly.</p>
 							</div>
 						</div>
 					</div>
@@ -178,19 +164,18 @@
 			<div class="arck-section-title headline text-center pera-content">
 				<span class="sub-title text-uppercase">Work Process</span>
 				<h2>How We Complete Works</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor labore et dolore magna aliqua. Ut enim ad minim veniam quis.
-				</p>
+				<p>Efficiency defines us. From conceptualization to realization, Essquarre orchestrates seamless work processes for exceptional results</p>
 			</div>
 			<div class="arck-work-process-content">
 				<div class="row justify-content-center">
 					<div class="col-lg-4 col-md-6">
 						<div class="arck-work-process-item text-center position-relative">
 							<div class="inner-icon">
-								<img src="assets/icon/icon4.png" alt="">
+								<img src="assets/icon1/1.png" alt="">
 							</div>
 							<div class="inner-text headline pera-content">
-								<h3>Planning & Design</h3>
-								<p>Prepare to meet the one and only For the WordPress theme perfect for both offer    in the corporate ativeects.</p>
+								<h3>Standard</h3>
+								<p>Elevate your spaces with our signature touch. Setting the standard in architecture and design excellence. Transforming visions into reality.</p>
 								<div class="work-serial position-relative">
 									<h4>01</h4>
 									<span class="text-uppercase">Step</span>
@@ -201,11 +186,11 @@
 					<div class="col-lg-4 col-md-6">
 						<div class="arck-work-process-item text-center position-relative">
 							<div class="inner-icon">
-								<img src="assets/icon/icon5.png" alt="">
+								<img src="assets/icon1/2.png" alt="">
 							</div>
 							<div class="inner-text headline pera-content">
-								<h3>Draws & Sketches</h3>
-								<p>Prepare to meet the one and only For the WordPress theme perfect for both offer    in the corporate ativeects.</p>
+								<h3>Quality</h3>
+								<p>Crafting brilliance in every detail. Uncompromising quality defines our architectural mastery. Elevate your space with precision and excellence.</p>
 								<div class="work-serial position-relative">
 									<h4>02</h4>
 									<span class="text-uppercase">Step</span>
@@ -216,13 +201,43 @@
 					<div class="col-lg-4 col-md-6">
 						<div class="arck-work-process-item text-center position-relative">
 							<div class="inner-icon">
-								<img src="assets/icon/icon6.png" alt="">
+								<img src="assets/icon1/3.png" alt="">
 							</div>
 							<div class="inner-text headline pera-content">
-								<h3>Start Building</h3>
-								<p>Prepare to meet the one and only For the WordPress theme perfect for both offer    in the corporate ativeects.</p>
+								<h3>Commitment</h3>
+								<p>Dedicated to excellence, our commitment shapes every design. Elevate spaces with passion, precision, and creativity. Your vision, our promise.</p>
 								<div class="work-serial position-relative">
 									<h4>03</h4>
+									<span class="text-uppercase">Step</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6" style="padding-top: 70px">
+						<div class="arck-work-process-item text-center position-relative">
+							<div class="inner-icon">
+								<img src="assets/icon1/4.png" alt="">
+							</div>
+							<div class="inner-text headline pera-content">
+								<h3>Confidentiality</h3>
+								<p>Designing dreams with confidentiality. Your vision, our secret. Elevate spaces with innovative solutions, protected by our trust. </p>
+								<div class="work-serial position-relative">
+									<h4>04</h4>
+									<span class="text-uppercase">Step</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6" style="padding-top: 70px">
+						<div class="arck-work-process-item text-center position-relative">
+							<div class="inner-icon">
+								<img src="assets/icon1/5.png" alt="">
+							</div>
+							<div class="inner-text headline pera-content">
+								<h3>Cost Effective</h3>
+								<p>Smart designs, affordable solutions. Elevate your space without breaking the bank. We make cost-effective elegance a reality.</p>
+								<div class="work-serial position-relative">
+									<h4>05</h4>
 									<span class="text-uppercase">Step</span>
 								</div>
 							</div>

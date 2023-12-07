@@ -22,18 +22,7 @@
 <!-- Start of Project Page content section
 	============================================= -->
 	<section id="arck-project-feed" class="arck-project-feed-section inner-page-padding">
-		<div class="container">
-			<div class="arck-project-filter-btn ul-li">
-				<div class="button-group  clearfix">
-					<button class="filter-button is-checked" data-filter="*">All </button>
-					<button class="filter-button is-checked" data-filter=".building">Building </button>
-					<!-- <button class="filter-button" data-filter=".interiors">Interiors</button>building
-					<button class="filter-button" data-filter=".design"> 3D Design</button>
-					<button class="filter-button" data-filter=".building">Building</button>
-					<button class="filter-button" data-filter=".house_exterior">House & Exterior </button> -->
-				</div>
-			</div>
-		</div>
+
 		<div class="arck-project-filter-content">
 			<div class="filtr-container-area grid clearfix" data-isotope="{ &quot;masonry&quot;: { &quot;columnWidth&quot;: 0 } }">
 				<div class="grid-sizer"></div>
@@ -220,7 +209,7 @@
 				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
 					<div class="arck-project-item position-relative two">
 						<div class="inner-img">
-							<img src="assets/img/picture/16.jpg" alt="">
+							<img src="assets/img/picture/28.jpg" alt="">
 						</div>
 						<div class="inner-text">
 							<div class="project-title-desc headline pera-content">
@@ -256,7 +245,7 @@
 				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
 					<div class="arck-project-item position-relative two">
 						<div class="inner-img">
-							<img src="assets/img/picture/19.jpg" alt="">
+							<img src="assets/img/picture/24.jpg" alt="">
 						</div>
 						<div class="inner-text">
 							<div class="project-title-desc headline pera-content">
@@ -316,7 +305,7 @@
 				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
 					<div class="arck-project-item position-relative two">
 						<div class="inner-img">
-							<img src="assets/img/picture/24.jpg" alt="">
+							<img src="assets/img/picture/19.jpg" alt="">
 						</div>
 						<div class="inner-text">
 							<div class="project-title-desc headline pera-content">
@@ -364,7 +353,7 @@
 				<div class="grid-item grid-size-25 building" data-category="building">
 					<div class="arck-project-item position-relative two">
 						<div class="inner-img">
-							<img src="assets/img/picture/28.jpg" alt="">
+							<img src="assets/img/picture/16.jpg" alt="">
 						</div>
 						<div class="inner-text">
 							<div class="project-title-desc headline pera-content">

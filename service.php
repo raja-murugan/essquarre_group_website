@@ -86,7 +86,7 @@
 							</div>
 							<div class="inner-text headline pera-content">
 								<h3><a href="javascript:void(0)">Fabrication Details</a></h3>
-								<p>Precise craftsmanship. Our fabrication details guide construction, ensuring quality and precision in every element's production.</p>
+								<p>Precise craftsmanship. Our fabrication details guide construction, ensuring quality in every element's production.</p>
 							</div>
 						</div>
 					</div>
@@ -98,7 +98,7 @@
 							</div>
 							<div class="inner-text headline pera-content">
 								<h3><a href="javascript:void(0)">2D Drawings</a></h3>
-								<p>Detail-oriented precision. Our 2D drawings set the foundation for impeccable design execution and construction accuracy.</p>
+								<p>Attention to detail matters. Our 2D drawings lay the groundwork for flawless design execution and construction.</p>
 							</div>
 						</div>
 					</div>
@@ -139,15 +139,14 @@
 		<div class="background_overlay"></div>
 		<div class="container">
 			<div class="arck-cta-content text-center headline position-relative">
-				<h2>We Provide Affortable Services Save
-				Time &  Save Mony. </h2>
+				<h2>Elevate your space affordably. Our services maximize value, delivering quality designs that justify every penny.</h2>
 				<div class="arck-cta-button-group d-flex justify-content-center">
 					<div class="arck-btn">
 						<a class="d-flex justify-content-center align-items-center text-uppercase" href="contact.php">Contact Us</a>
 					</div>
 					<div class="arck-cta-number d-flex align-items-center ">
 						<i class="fal fa-phone-alt"></i>
-						<a href="tel:+91984179190">+91 984179190</a>
+						<a href="tel:+04442615384">044 42 61 5384</a>
 					</div>
 				</div>
 			</div>

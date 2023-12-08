@@ -13,17 +13,12 @@
 										<li>
 											<i class="fas fa-map-marker-alt"></i>
 											<span>
-												Plot No -384,<br>Ground Floor,SBLENCLAVE,<br>27th street,
-												6th sector,<br>K.K.Nagar,<br>Chennai-600078
+												Plot No -384,<br>Ground Floor, SBL ENCLAVE,<br>K.K.Nagar, Chennai
 											</span>
 										</li>
 										<li>
 											<i class="fal fa-phone-alt"></i>
-										<li><a href="tel:+919841791901" style="font:caption">98417 91901</a></li>
-										</li>
-										<li>
-											<i class="fas fa-envelope"></i>
-											<a href="mailto:Essquarreassociates@gmail.com">Essquarreassociates@gmail.com</a>
+										<li><a href="tel:+9104442615384" style="font:caption">044 42 61 5384</a></li>
 										</li>
 									</ul>
 								</div>
@@ -40,36 +35,15 @@
 											<i class="fas fa-map-marker-alt"></i>
 											<span>
 												C20, 10th cross street,<br>WestExtension,<br>
-												ThillaiNagar,<br>Trichy-620018
+												ThillaiNagar, Trichy
 											</span>
-											<br>
 										</li>
 										<li>
 											<i class="fal fa-phone-alt"></i>
-										<li><a href="tel:+919894391901" style="font:caption">98943 91901</a></li>
-										</li>
-										<li>
-											<i class="fas fa-envelope"></i>
-											<a href="mailto:info.essquarre@gmail.com">info.essquarre@gmail.com</a>
+										<li><a href="tel:+9104314505150" style="font:caption">0431 45 05 150</a></li>
 										</li>
 									</ul>
 								</div>
-							</div>
-						</div>
-					</div>
-                    <div class="col-lg-3 col-md-12">
-						<div class="arck-footer-widget headline ul-li-block pera-content">
-							<div class="menu-widget">
-								<h3 class="widget-title">Services</h3>
-								<ul>
-									<li><a href="service.php">Building Management</a></li>
-									<li><a href="service.php">2D Drawings</a></li>
-									<li><a href="service.php">Analyses</a></li>
-									<li><a href="service.php">Fabrication Details</a></li>
-									<li><a href="service.php">3D Visualisation</a></li>
-									<li><a href="service.php">Project Management</a></li>
-									
-								</ul>
 							</div>
 						</div>
 					</div>
@@ -80,11 +54,21 @@
 								<ul>
 									<li><a href="index.php">Home</a></li>
 									<li><a href="about.php">About</a></li>
-									<li><a href="group.php">Group</a></li>
 									<li><a href="service.php">Services</a></li>
-									<li><a href="work.php">Work</a></li>
 									<li><a href="contact.php">Contact</a></li>
 								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-12">
+						<div class="arck-footer-widget headline ul-li-block pera-content">
+							<div class="menu-widget">
+								<h3 class="widget-title">Connect with us</h3>
+								<a href="https://www.facebook.com/profile.php?id=61554291924902" target="_blank" class="fab fa-facebook-f" style="color:white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+								<a href="https://www.instagram.com/essquarre_groups/" target="_blank" class="fab fa-instagram" style="color:white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+								<a href="https://www.youtube.com/@EssquarreGroups" target="_blank" class="fab fa-youtube" style="color:white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+								<a href="https://twitter.com/essquarregroups" target="_blank" class="fab fa-twitter" style="color:white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+								<a href="https://www.linkedin.com/company/99103398/" target="_blank" class="fab fa-linkedin" style="color:white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 							</div>
 						</div>
 					</div>
@@ -93,15 +77,11 @@
 		</div>
 
 		<div class="row arck-footer-copyright">
-			<div class="col-lg-6 col-md-6 text-left">
-			Copyright © 2023 Essquarre . All rights reserved <a href="https://zworktechnology.com/" target="_blank">Zwork
-					Technology</a>
+			<div class="col-lg-6 col-md-6 text-left" style="padding-left:150px">
+				Copyright © 2023 <span style="color:#1aa6f8"> Essquarre </span>. All Rights Reserved 
 			</div>
-			<div class="col-lg-6 col-md-6 text-right">
-					<a href="https://www.facebook.com/people/Essquarre-Associates/100071918486368/?mibextid=ZbWKwL" target="_blank" class="fab fa-facebook-f"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="https://www.instagram.com/" class="fab fa-instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="https://www.twitter.com/" class="fab fa-twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="https://www.youtube.com/" class="fab fa-youtube""></a>
+			<div class="col-lg-6 col-md-6" style="padding-left:400px">
+			 Crafted by <a href="https://zworktechnology.com/" target="_blank"><span style="color:#1aa6f8">zworktechnology.com</span></a>
 			</div>
 		</div>
 	</footer>

@@ -24,7 +24,7 @@
 	.modal {
 		display: none;
 		position: fixed;
-		
+
 		padding-top: 100px;
 		left: 0;
 		top: 0;
@@ -107,10 +107,6 @@
 		top: 0;
 	}
 
-	img {
-		margin-bottom: -4px;
-	}
-
 	.caption-container {
 		text-align: center;
 		background-color: black;
@@ -141,6 +137,62 @@
 			width: 100%;
 		}
 	}
+
+	/* .column {
+		position: relative;
+		text-align: center;
+		color: #1aa6f8;
+	}
+
+	.bottom-left {
+		position: absolute;
+		bottom: 8px;
+		left: 30px;
+	}
+
+	.bottom-right {
+		position: absolute;
+		bottom: 8px;
+		right: 16px;
+	} */
+.column {
+  position: relative;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #008CBA;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+  margin-bottom: -1px;
+}
+
+.column:hover .overlay {
+  height: 100%;
+}
+
+.text {
+  color: white;
+  font-size: 16px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
 </style>
 
 
@@ -155,7 +207,7 @@
 		<div class="arck-breadcrumb-content position-relative text-center headline-2 ul-li">
 			<h1>Team</h1>
 			<ul>
-				<li><a href="#">Home</a></li>
+				<li><a href="index.php">Home</a></li>
 				<li>Team</li>
 			</ul>
 		</div>
@@ -163,6 +215,16 @@
 </section>
 <!-- End of Breadcrumb section
 	============================================= -->
+	<div class="arck-section-title pt-5">
+		<h1 class="text-center">"One Stop Solution For Your All Construction Needs!"</h1>
+		<div class="container pt-3">
+			<p>
+			Welcome to the diverse world of Essquarre Groups, where excellence meets innovation across various domains. Essquarre Associates leads in strategic consulting, providing insightful solutions for business growth. Essquarre Consultants are the architects of visionary designs, shaping spaces and experiences with a blend of creativity and precision. Essquarre Constructions stands as the backbone, crafting robust structures that stand the test of time. Sivaraaj Saw Mill & Timbers contribute to the group's legacy with a commitment to quality timbering for over 50 years. 
+			Sivaraaj Agency excels in comprehensive services, meeting various needs with efficiency and reliability. Sivaraaj Constructions, under the umbrella of Essquarre Groups, paves the way for the future, constructing not just buildings but lasting legacies. Together, these entities form a powerful conglomerate dedicated to excellence, innovation, and a holistic approach to various industry verticals.
+			</p>
+		</div>
+	</div>
+	
 
 <!-- Start of Team feed section
 	============================================= -->
@@ -170,16 +232,46 @@
 
 	<div class="row">
 		<div class="column">
-			<img src="assets/img/team/tm3.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+			<img src="assets/img/team/tm1.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+			<div class="overlay">
+				<div class="text">
+					<b>S.SURESH B.Arch.,<br>
+					ARCHITECT<br>
+					MANAGING DIRECTOR</b><br><br>
+					Designing dreams for over 17 years – my architectural expertise transforms spaces into extraordinary experiences.
+				</div>
+			</div>
 		</div>
 		<div class="column">
 			<img src="assets/img/team/tm2.jpg" style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+			<div class="overlay">
+				<div class="text">
+					<b>E.SANGEETHA M.B.A.,<br>
+					DIRECTOR</b><br><br>
+					With over 13 years as a director, my experience shapes success, leading with innovation and expertise.
+				</div>
+			</div>
 		</div>
 		<div class="column">
-			<img src="assets/img/team/tm1.jpg" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+			<img src="assets/img/team/tm3.jpg" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+			<div class="overlay">
+				<div class="text">
+					<b>	S.ELANGOVAN B.COM.,<br>
+					DIRECTOR</b><br><br>
+					Steering Sivaraaj Saw Mill for 50+ years, unwavering commitment to timber excellence, enduring through generations.
+				</div>
+			</div>
 		</div>
 		<div class="column">
-			<img src="assets/img/team/tm3.jpg" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+			<img src="assets/img/team/tm4.jpg" style="width:1000%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+			<div class="overlay">
+				<div class="text">
+				<b>E.SHIVARAJ M.E(Struct.)<br>
+				STRUCTURAL ENGINEER<br>
+				MANAGING DIRECTOR</b><br><br>
+				For over 15 years, Sivaraaj Constructions crafts engineering excellence, molding strength and durability with precision.
+				</div>
+			</div>
 		</div>
 	</div>
 
@@ -188,7 +280,7 @@
 		<div class="modal-content">
 
 			<div class="mySlides">
-				<img src="assets/img/team/tm3.jpg" style="margin-left: 400px">
+				<img src="assets/img/team/tm1.jpg" style="margin-left: 400px">
 			</div>
 
 			<div class="mySlides">
@@ -196,11 +288,11 @@
 			</div>
 
 			<div class="mySlides">
-				<img src="assets/img/team/tm1.jpg" style="margin-left: 400px">
+				<img src="assets/img/team/tm3.jpg" style="margin-left: 400px">
 			</div>
 
 			<div class="mySlides">
-				<img src="assets/img/team/tm3.jpg" style="margin-left: 400px">
+				<img src="assets/img/team/tm4.jpg" style="margin-left: 400px">
 			</div>
 
 
@@ -210,6 +302,41 @@
 		</div>
 	</div>
 </section>
+
+<!-- Start of Sponsor section
+	============================================= -->
+	<section id="arck-sponsor" class="arck-sponsor-section">
+		<div class="container">
+			<div class="arck-sponsor-slider">
+				<div class="arck-sponsor-slider-item">
+					<img src="assets/img/sponsor/sp1.png">
+				</div>
+				<div class="arck-sponsor-slider-item">
+					<img src="assets/img/sponsor/sp2.png">
+				</div>
+				<div class="arck-sponsor-slider-item">
+					<img src="assets/img/sponsor/sp3.png">
+				</div>
+				<div class="arck-sponsor-slider-item">
+					<img src="assets/img/sponsor/sp4.png">
+				</div>
+				<div class="arck-sponsor-slider-item">
+					<img src="assets/img/sponsor/sp5.png">
+				</div>
+				<div class="arck-sponsor-slider-item">
+					<img src="assets/img/sponsor/sp1.png">
+				</div>
+				<div class="arck-sponsor-slider-item">
+					<img src="assets/img/sponsor/sp2.png">
+				</div>
+				<div class="arck-sponsor-slider-item">
+					<img src="assets/img/sponsor/sp3.png">
+				</div>
+			</div>
+		</div>
+	</section>		
+<!-- End of Sponsor section
+	============================================= -->
 
 <script>
 	function openModal() {

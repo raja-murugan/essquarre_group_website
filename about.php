@@ -38,7 +38,7 @@
 					<div class="col-lg-6">
 						<div class="arck-about-text-wrap-2">
 							<div class="arck-section-title headline pera-content">
-								<span class="sub-title text-uppercase">About Essquarre</span>
+								<span class="sub-title text-uppercase">Essquarre Groups</span>
 								<h2>Shaping <span>Design</span> Futures Since 2007</h2>
 								<p>Established in 2007, Essquarre Associates has been a pioneering force, offering comprehensive design, engineering, and project management services. Our commitment to innovation and excellence, coupled with personalized attention, ensures enduring client satisfaction. 
 									Our experienced team aligns expertise with unique client needs, fostering long-term relationships. 
@@ -50,15 +50,12 @@
 									<img src="assets/img/about/abs1.jpg" alt="">
 								</div>
 								<div class="inner-text headline  position-relative">
-									<h3>‘’At Essquarre, our information architecture, like a well-designed home, ensures easy access to your unique design journey.’’ </h3>
+									<h3>‘’Design is a learning Experience. So my agenda is to figure out What I Want to learn next’’ </h3>
 									<div class="about-author">
 										<h4>Suresh Subramanian</h4>
 										<span>CEO & Founder</span>
 									</div>
 								</div>
-							</div>
-							<div class="arck-btn">
-								<a class="d-flex justify-content-center align-items-center text-uppercase" href="work.php">View Work</a>
 							</div>
 						</div>
 					</div>
@@ -67,41 +64,6 @@
 		</div>
 	</section>
 <!-- End of about page about section
-	============================================= -->
-
-<!-- Start of Sponsor section
-	============================================= -->
-	<section id="arck-sponsor" class="arck-sponsor-section">
-		<div class="container">
-			<div class="arck-sponsor-slider">
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp1.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp2.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp3.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp4.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp5.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp1.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp2.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp3.png">
-				</div>
-			</div>
-		</div>
-	</section>		
-<!-- End of Sponsor section
 	============================================= -->
 
 
@@ -113,7 +75,6 @@
 				<div class="row justify-content-center">
 					<div class="col-lg-4 col-md-6 no-padding">
 						<div class="arck-service-item text-center position-relative">
-							<span class="serial-no position-absolute">01</span>
 							<div class="hover-img position-absolute">
 								<img src="assets/img/service/ser1.jpg" alt="">
 							</div>
@@ -123,13 +84,11 @@
 							<div class="arck-inner-text headline pera-content">
 								<h3><a href="javascript:void(0)">Architect Design</a></h3>
 								<p>Elevate spaces with visionary architect design, blending aesthetics and functionality for enduring, captivating structures.</p>
-								<a class="btn-more text-uppercase" href="javascript:void(0)">Read More <i class="fal fa-arrow-right"></i></a>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6 no-padding">
 						<div class="arck-service-item text-center position-relative">
-							<span class="serial-no position-absolute">02</span>
 							<div class="hover-img position-absolute">
 								<img src="assets/img/service/ser2.jpg" alt="">
 							</div>
@@ -139,13 +98,11 @@
 							<div class="arck-inner-text headline pera-content">
 								<h3><a href="javascript:void(0)">Interior Design</a></h3>
 								<p>Crafting lifestyles with personalized interior design—where innovation meets elegance, creating spaces that resonate with individuality.</p>
-								<a class="btn-more text-uppercase" href="javascript:void(0)">Read More <i class="fal fa-arrow-right"></i></a>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6 no-padding">
 						<div class="arck-service-item text-center position-relative">
-							<span class="serial-no position-absolute">03</span>
 							<div class="hover-img position-absolute">
 								<img src="assets/img/service/ser3.jpg" alt="">
 							</div>
@@ -155,7 +112,6 @@
 							<div class="arck-inner-text headline pera-content">
 								<h3><a href="javascript:void(0)">Construction Building</a></h3>
 								<p>Building dreams into reality. Our construction expertise ensures quality, precision, and timely delivery for enduring, functional structures.</p>
-								<a class="btn-more text-uppercase" href="javascript:void(0)">Read More <i class="fal fa-arrow-right"></i></a>
 							</div>
 						</div>
 					</div>
@@ -172,14 +128,14 @@
 		<div class="background_overlay"></div>
 		<div class="container">
 			<div class="arck-cta-content text-center headline position-relative">
-				<h2>Your Budget, Our Priority : Affordable Services, Saving You Time and Money.</h2>
+				<h2>Crafting dreams into reality, Essquarre Groups builds more than structures – we build lasting aspirations.</h2>
 				<div class="arck-cta-button-group d-flex justify-content-center">
 					<div class="arck-btn">
 						<a class="d-flex justify-content-center align-items-center text-uppercase" href="contact.php">Contact Us</a>
 					</div>
 					<div class="arck-cta-number d-flex align-items-center ">
 						<i class="fal fa-phone-alt"></i>
-						<a href="tel:+91984179190">+91 984179190</a>
+						<a href="tel:04442615384">044 42 61 5384</a>
 					</div>
 				</div>
 			</div>
@@ -309,120 +265,6 @@
 		</div>
 	</section>
 <!-- End of Counter section
-	============================================= -->
-
-<!-- Start of Testimonial section
-	============================================= -->
-	<section id="arck-testimonial" class="arck-testimonial-section">
-		<div class="container">
-			<div class="arck-testimonial-content">
-				<div class="row">
-					<div class="col-lg-6">
-						<div class="arck-testimonial-img-wrap position-relative">
-							<div class="acrk-img-shape1 position-absolute"><i></i></div>
-							<div class="acrk-img-shape2 position-absolute"><i></i></div>
-							<div class="inner-img">
-								<img src="assets/img/about/ab2.jpg" alt="">
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-6">
-						<div class="arck-testimonial-text-wrap">
-							<div class="arck-section-title headline pera-content">
-								<span class="sub-title text-uppercase">Client Review</span>
-								<h2>What Our Client Say</h2>
-							</div>
-							<div class="arck-testimonial-slider-wrap">
-								<div class="arck-testimonial-slider">
-									<div class="arck-teestimonial-item">
-										<div class="inner-text position-relative">
-											<i class="fas fa-quote-left"></i>
-											Essquarre made our dream home a reality. The personalized service and attention to detail surpassed expectations. Highly recommended!
-										</div>
-										<div class="inner-author d-flex">
-											<div class="author-img">
-												<img src="assets/img/about/tst1.jpg" alt="">
-											</div>
-											<div class="author-text headline">
-												<h3>Saranya R</h3>
-												<span>Chennai, Tamil Nadu</span>
-											</div>
-										</div>
-									</div>
-									<div class="arck-teestimonial-item">
-										<div class="inner-text position-relative">
-											<i class="fas fa-quote-left"></i>
-											Exceptional work! Essquarre's expertise transformed our space. Professionalism, creativity, and a personal touch—impressed with the result!
-										</div>
-										<div class="inner-author d-flex">
-											<div class="author-img">
-												<img src="assets/img/about/tst1.jpg" alt="">
-											</div>
-											<div class="author-text headline">
-												<h3>Rajesh M</h3>
-												<span>Coimbatore, Tamil Nadu</span>
-											</div>
-										</div>
-									</div>
-									<div class="arck-teestimonial-item">
-										<div class="inner-text position-relative">
-											<i class="fas fa-quote-left"></i> 
-											Essquarre Associates stands out for their innovation and dedication. From design to execution, they delivered excellence. Highly satisfied with our project!
-										</div>
-										<div class="inner-author d-flex">
-											<div class="author-img">
-												<img src="assets/img/about/tst1.jpg" alt="">
-											</div>
-											<div class="author-text headline">
-												<h3>Karthik N</h3>
-												<span>Trichy, Tamil Nadu</span>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>		
-<!-- End of Testimonial section
-	============================================= -->			
-
-<!-- Start of Sponsor section
-	============================================= -->
-	<section id="arck-sponsor" class="arck-sponsor-section">
-		<div class="container">
-			<div class="arck-sponsor-slider">
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp1.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp2.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp3.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp4.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp5.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp1.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp2.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp3.png">
-				</div>
-			</div>
-		</div>
-	</section>		
-<!-- End of Sponsor section
-	============================================= -->
+	============================================= -->	
 
 	<?php include('footer.php') ?>

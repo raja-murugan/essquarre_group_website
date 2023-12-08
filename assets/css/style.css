@@ -1782,11 +1782,6 @@ body {
 .about-signature-img .about-author span {
   font-size: 14px;
 }
-
-.about-page-about-section {
-  padding: 130px 0px 180px;
-}
-
 .about-page-about-content .arck-about-img-wrapper .shape1 {
   left: -40px;
   right: auto;
@@ -3562,7 +3557,7 @@ body {
   padding: 120px 0px 140px;
 }
 .arck-cta-content h2 {
-  font-size: 48px;
+  font-size: 44px;
   font-weight: 600;
   color: var(--white-color);
 }

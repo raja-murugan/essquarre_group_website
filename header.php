@@ -65,13 +65,13 @@
 					</div>
 					<div class="header-cta-value">
 						<span class="ar-title">Phone:</span>
-						<span class="ar-value"><a href="tel:+919841791901">+91 9841791901</a></span>
+						<span class="ar-value"><a href="tel:+9104442615384">+91 044 42 61 5384</a></span>
 					</div>
 				</div>
 				<div class="header-cta-btn">
 					<a class="d-flex justify-content-center align-items-center"
 						href="https://api.whatsapp.com/send/?phone=%2B919841791901&text&type=phone_number&app_absent=0"
-						target="_blank">Chat on Whatsapp<i class="fal fa-long-arrow-right"></i></a>
+						target="_blank">Chat on Whatsapp</a>
 				</div>
 			</div>
 			<div class="mobile_menu">
@@ -135,22 +135,21 @@
 					<div class="sidebar-info-contents headline pera-content">
 						<div class="content-inner">
 							<div class="logo">
-								<a href="index.php"><img src="assets/img/logo/logo-5.png" alt=""></a>
+								<a href="index.php"><img src="assets/img/logo/logo-5.jpg"></a>
 							</div>
 							<div class="content-box">
 								<h5>About Us</h5>
-								<p class="text">The argument in favor of using filler text goes something like this: If
-									you use real content in the Consulting Process, anytime you reach a review point
-									you’ll end up reviewing and negotiating the content itself and not the design.</p>
+								<p class="text">Essquarre Groups was formed in the year 2007 as a firm.Our Chairs are strengthened by well Qualified and experienced persons in order to achieve the goal of providing bettter services to our clients.</p>
 							</div>
 							<!-- Social Box -->
 							<div class="content-box">
 								<h5>Social Account</h5>
 								<ul class="social-box">
-									<li><a href="https://www.facebook.com/people/Essquarre-Associates/100071918486368/?mibextid=ZbWKwL" target="_blank" class="fab fa-facebook-f"></a></li>
-									<li><a href="https://www.instagram.com/" class="fab fa-instagram"></a></li>
-									<li><a href="https://www.twitter.com/" class="fab fa-twitter"></a></li>
-									<li><a href="https://www.youtube.com/" class="fab fa-youtube""></a></li>
+									<li><a href="https://www.facebook.com/profile.php?id=61554291924902" target="_blank" class="fab fa-facebook-f"></a></li>
+									<li><a href="https://www.instagram.com/essquarre_groups/" target="_blank" class="fab fa-instagram"></a></li>
+									<li><a href="https://www.youtube.com/@EssquarreGroups" target="_blank" class="fab fa-youtube"></a></li>
+									<li><a href="https://twitter.com/essquarregroups" target="_blank" class="fab fa-twitter"></a></li>
+									<li><a href="https://www.linkedin.com/company/99103398/" target="_blank" class="fab fa-linkedin"></a></li>
 								</ul>
 							</div>
 							<!-- Contact Us -->
@@ -158,8 +157,8 @@
 								<h5>Contact Us</h5>
 								<p class="text">
 									<i class="fal fa-phone-alt">&nbsp;&nbsp;Phone</i><br>
-									<a href="tel:+919841791901" style="font: caption;">+91 98417 91901</a><br>
-									<a href="tel:+919894391901" style="font: caption;">+91 98943 91901</a><br><br>
+									<a href="tel:+9104442615384" style="font: caption;">+91 044 42 61 5384</a><br>
+									<a href="tel:+9104314505150" style="font: caption;">+91 0431 45 05 150</a><br><br>
 									<i class="fas fa-envelope">&nbsp;&nbsp;Email</i><br>
 									<a href="mailto:Essquarreassociates@gmail.com">Essquarreassociates@gmail.com</a>
 									<a href="mailto:info.essquarre@gmail.com">info.essquarre@gmail.com</a>

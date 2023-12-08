@@ -6,10 +6,11 @@
 		<div class="arck-main-slider-area-2 position-relative">
 			<div class="slider-social position-absolute ul-li">
 				<ul>
-					<li><a href="https://www.facebook.com/" class="fab fa-facebook-f"></a></li>
-					<li><a href="https://www.instagram.com/" class="fab fa-instagram"></a></li>
-					<li><a href="https://www.twitter.com/" class="fab fa-twitter"></a></li>
-					<li><a href="https://www.youtube.com/" class="fab fa-youtube"></a></li>
+					<li><a href="https://www.facebook.com/profile.php?id=61554291924902" target="_blank" class="fab fa-facebook-f"></a></li>
+					<li><a href="https://www.instagram.com/essquarre_groups/" target="_blank" class="fab fa-instagram"></a></li>
+					<li><a href="https://www.youtube.com/@EssquarreGroups" target="_blank" class="fab fa-youtube"></a></li>
+					<li><a href="https://twitter.com/essquarregroups" target="_blank" class="fab fa-twitter"></a></li>
+					<li><a href="https://www.linkedin.com/company/99103398/" target="_blank" class="fab fa-linkedin"></a></li>
 				</ul>
 			</div>
 			<div class="arck-main-slider-area-2 position-relative">
@@ -24,7 +25,7 @@
 						<div class="container">
 							<div class="arck-slider-main-text headline pera-content">
 								<div class="slider-sub-text text-uppercase">
-									Essquarre
+									Essquarre Groups
 								</div>
 								<h1>Innovate, Integrate, 
 									Inspire Your Living Spaces.</h1>
@@ -37,10 +38,10 @@
 						</div>
 					</div>
 				</div>
-				<div class="carousel_nav">
+				<!-- <div class="carousel_nav">
 					<button type="button" class="main_left_arrow text-uppercase">Prev</button>
 					<button type="button" class="main_right_arrow text-uppercase">Next</button>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</section>
@@ -63,7 +64,7 @@
 						<div class="arck-about-text-wrap-2">
 							<div class="arck-section-title-2 headline pera-content wow fadeInUp" data-wow-delay="400ms"
 								data-wow-duration="1500ms">
-								<span class="sub-title text-uppercase">About Essquarre</span>
+								<span class="sub-title text-uppercase">Essquarre Groups</span>
 								<h2>Shaping <span>Design </span> Futures Since 2007</h2>
 								<p>Established in 2007, Essquarre Associates has been a pioneering force, offering comprehensive design, engineering, and project management services. 
 									Our commitment to innovation and excellence, coupled with personalized attention, ensures enduring client satisfaction. Our experienced team aligns expertise with unique client needs, fostering long-term relationships. 
@@ -76,7 +77,7 @@
 									<img src="assets/img/about/abs1.jpg" alt="">
 								</div>
 								<div class="inner-text headline  position-relative">
-									<h3>‘’At Essquare, our information architecture, like a well-designed home, ensures easy access to your unique design journey.’’ </h3>
+									<h3>‘’Design is a learning Experience. So my agenda is to figure out What I Want to learn next’’ </h3>
 									
 								</div>
 							</div>
@@ -160,7 +161,7 @@
 		<div class="container">
 			<div class="arck-section-title-2 headline text-center pera-content wow fadeInUp" data-wow-delay="200ms"
 				data-wow-duration="1500ms">
-				<span class="sub-title text-uppercase">Pricing Plan</span>
+				<span class="sub-title text-uppercase">Our Services</span>
 				<h2>Value Meets<span> Convenience</span></h2>
 			</div> 
 			<div class="arck-service-content-2">
@@ -238,8 +239,8 @@
 												<img src="assets/img/about/tst1.jpg" alt="">
 											</div>
 											<div class="author-text headline">
-												<h3>Saranya R</h3>
-												<span>Chennai, Tamil Nadu</span>
+												<h3>Happy Customer</h3>
+												<span>Google Review</span>
 											</div>
 										</div>
 									</div>
@@ -253,8 +254,8 @@
 												<img src="assets/img/about/tst1.jpg" alt="">
 											</div>
 											<div class="author-text headline">
-												<h3>Rajesh M</h3>
-												<span>Coimbatore, Tamil Nadu</span>
+												<h3>Happy Customer</h3>
+												<span>Google Review</span>
 											</div>
 										</div>
 									</div>
@@ -268,8 +269,8 @@
 												<img src="assets/img/about/tst1.jpg" alt="">
 											</div>
 											<div class="author-text headline">
-												<h3>Karthik N</h3>
-												<span>Trichy, Tamil Nadu</span>
+												<h3>Happy Customer</h3>
+												<span>Google Review</span>
 											</div>
 										</div>
 									</div>

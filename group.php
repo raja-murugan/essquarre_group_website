@@ -138,23 +138,6 @@
 		}
 	}
 
-	/* .column {
-		position: relative;
-		text-align: center;
-		color: #1aa6f8;
-	}
-
-	.bottom-left {
-		position: absolute;
-		bottom: 8px;
-		left: 30px;
-	}
-
-	.bottom-right {
-		position: absolute;
-		bottom: 8px;
-		right: 16px;
-	} */
 .column {
   position: relative;
 }
@@ -193,6 +176,7 @@
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
 </style>
 
 
@@ -200,9 +184,9 @@
 <!-- Start of Breadcrumb section
 	============================================= -->
 <section id="arck-breadcrumb" class="arck-breadcrumb-section-2 position-relative" data-background="assets/img/bg/ar-shape.png">
-	<div class="slider-side-content position-absolute">
+	<!-- <div class="slider-side-content position-absolute">
 		<span class="archx-slider-side1 position-absolute"><a href="#">Contact@gmail.com</a></span>
-	</div>
+	</div> -->
 	<div class="container">
 		<div class="arck-breadcrumb-content position-relative text-center headline-2 ul-li">
 			<h1>Team</h1>
@@ -216,7 +200,35 @@
 <!-- End of Breadcrumb section
 	============================================= -->
 	<div class="arck-section-title pt-5">
-		<h1 class="text-center">"One Stop Solution For Your All Construction Needs!"</h1>
+		<div class="container">
+			<h1>"One Stop Solution For Your All Construction Needs!"</h1>
+			<b>
+				<div class="row pt-3">
+					<div class="col-6 text-center" >
+						<li>ESSQUARRE ASSOCIATES</li>
+					</div>
+					<div class="col-6 text-left">
+						<li>SIVARAAJ SAW MILL & TIMBERS</li>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 text-center" style="padding-left: 30px;">
+						<li>ESSQUARRE CONSULTANTS</li>
+					</div>
+					<div class="col-6 text-left">
+						<li>SIVARAAJ AGENCY</li>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 text-center" style="padding-left: 50px;">
+						<li>ESSQUARRE CONSTRUCTIONS</li>
+					</div>
+					<div class="col-6 text-left">
+						<li>SIVARAAJ CONSTRUCTIONS</li>
+					</div>
+				</div>
+			</b>
+		</div>
 		<div class="container pt-3">
 			<p>
 			Welcome to the diverse world of Essquarre Groups, where excellence meets innovation across various domains. Essquarre Associates leads in strategic consulting, providing insightful solutions for business growth. Essquarre Consultants are the architects of visionary designs, shaping spaces and experiences with a blend of creativity and precision. Essquarre Constructions stands as the backbone, crafting robust structures that stand the test of time. Sivaraaj Saw Mill & Timbers contribute to the group's legacy with a commitment to quality timbering for over 50 years. 
@@ -235,9 +247,9 @@
 			<img src="assets/img/team/tm1.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
 			<div class="overlay">
 				<div class="text">
-					<b>S.SURESH B.Arch.,<br>
-					ARCHITECT<br>
-					MANAGING DIRECTOR</b><br><br>
+					<b>Mr. SURESH SUBRAMANIAN<br>
+					B.Arch.,<br>
+					CEO & Founder of (Essquarre Groups of Companies)</b><br>
 					Designing dreams for over 17 years – my architectural expertise transforms spaces into extraordinary experiences.
 				</div>
 			</div>
@@ -246,8 +258,8 @@
 			<img src="assets/img/team/tm2.jpg" style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
 			<div class="overlay">
 				<div class="text">
-					<b>E.SANGEETHA M.B.A.,<br>
-					DIRECTOR</b><br><br>
+					<b>Mrs. E.SANGEETHA M.B.A.,<br>
+					DIRECTOR of (Essquarre Associates)</b><br>
 					With over 13 years as a director, my experience shapes success, leading with innovation and expertise.
 				</div>
 			</div>
@@ -256,8 +268,8 @@
 			<img src="assets/img/team/tm3.jpg" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
 			<div class="overlay">
 				<div class="text">
-					<b>	S.ELANGOVAN B.COM.,<br>
-					DIRECTOR</b><br><br>
+					<b>Mr. S.ELANGOVAN B.COM.,<br>
+					DIRECTOR of <br> (Sivaraaj Saw Mill & Timbers and Sivaraaj Agency)</b><br>
 					Steering Sivaraaj Saw Mill for 50+ years, unwavering commitment to timber excellence, enduring through generations.
 				</div>
 			</div>
@@ -266,12 +278,37 @@
 			<img src="assets/img/team/tm4.jpg" style="width:1000%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
 			<div class="overlay">
 				<div class="text">
-				<b>E.SHIVARAJ M.E(Struct.)<br>
-				STRUCTURAL ENGINEER<br>
-				MANAGING DIRECTOR</b><br><br>
+				<b>Mr. E.SHIVARAJ M.E(Struct.)<br>
+				DIRECTOR of <br>(Sivaraaj Constructions)</b><br>
 				For over 15 years, Sivaraaj Constructions crafts engineering excellence, molding strength and durability with precision.
 				</div>
 			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-3 text-center">
+			<b>	
+				Mr. SURESH SUBRAMANIAN B.Arch.,
+				<p>CEO & Founder</p>
+			</b>
+		</div>
+		<div class="col-3 text-center">
+			<b>	
+				Mrs. E.SANGEETHA M.B.A.,
+				<p>DIRECTOR</p>
+			</b>
+		</div>
+		<div class="col-3 text-center">
+			<b>	
+				Mr. S.ELANGOVAN B.COM.,
+				<p>DIRECTOR</p>
+			</b>
+		</div>
+		<div class="col-3 text-center">
+			<b>	
+				Mr. E.SHIVARAJ M.E(Struct)
+				<p>DIRECTOR</p>
+			</b>
 		</div>
 	</div>
 

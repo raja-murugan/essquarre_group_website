@@ -45,19 +45,6 @@
 						<div class="arck-service-item-2 position-relative">
 							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
 							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-								<img src="assets/icon/ic11.png" alt="">
-								<!-- <img src="assets/icon/ic21.png" alt=""> -->
-							</div>
-							<div class="inner-text headline pera-content">
-								<h3><a href="javascript:void(0)">Building Management</a></h3>
-								<p>Enhance facilities with our management solutions, ensuring efficiency, security, and comfort for seamless operations.</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6">
-						<div class="arck-service-item-2 position-relative">
-							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
-							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
 								<img src="assets/icon/ic12.png" alt="">
 							</div>
 							<div class="inner-text headline pera-content">
@@ -82,7 +69,7 @@
 						<div class="arck-service-item-2 position-relative">
 							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
 							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-								<img src="assets/icon/ic16.png" alt="">
+								<img src="assets/icon/ic17.png" alt="" style="width: 45px;">
 							</div>
 							<div class="inner-text headline pera-content">
 								<h3><a href="javascript:void(0)">Fabrication Details</a></h3>
@@ -126,6 +113,43 @@
 							</div>
 						</div>
 					</div>
+					<div class="col-lg-4 col-md-6">
+						<div class="arck-service-item-2 position-relative">
+							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
+							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
+								<img src="assets/icon/ic11.png" alt="">
+								<!-- <img src="assets/icon/ic21.png" alt=""> -->
+							</div>
+							<div class="inner-text headline pera-content">
+								<h3><a href="javascript:void(0)">Building Management</a></h3>
+								<p>Enhance facilities with our management solutions, ensuring efficiency, security, and comfort for seamless operations.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6">
+						<div class="arck-service-item-2 position-relative">
+							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
+							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
+								<img src="assets/icon/ic19.png" alt="" style="width: 60px;">
+							</div>
+							<div class="inner-text headline pera-content">
+								<h3><a href="javascript:void(0)">Architectural Designing</a></h3>
+								<p>Crafting spaces that inspire. We design buildings that tell stories through thoughtful architecture.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6">
+						<div class="arck-service-item-2 position-relative">
+							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
+							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
+								<img src="assets/icon/ic18.png" alt="" style="width: 60px;">
+							</div>
+							<div class="inner-text headline pera-content">
+								<h3><a href="javascript:void(0)">Engineer Drawing</a></h3>
+								<p>Precision in every line, Our drawings are the blueprints of innovation, bringing ideas to life.</p>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -146,7 +170,7 @@
 					</div>
 					<div class="arck-cta-number d-flex align-items-center ">
 						<i class="fal fa-phone-alt"></i>
-						<a href="tel:+04442615384">044 42 61 5384</a>
+						<a href="javascript:void(0)">044 42 61 5384</a>
 					</div>
 				</div>
 			</div>

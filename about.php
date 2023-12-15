@@ -39,10 +39,12 @@
 						<div class="arck-about-text-wrap-2">
 							<div class="arck-section-title headline pera-content">
 								<span class="sub-title text-uppercase">Essquarre Groups</span>
-								<h2>Shaping <span>Design</span> Futures Since 2007</h2>
-								<p>Established in 2007, Essquarre Associates has been a pioneering force, offering comprehensive design, engineering, and project management services. Our commitment to innovation and excellence, coupled with personalized attention, ensures enduring client satisfaction. 
-									Our experienced team aligns expertise with unique client needs, fostering long-term relationships. 
-									Explore the essence of design and unparalleled service with Essquarre Associates.
+								<h2>Our <span>designs</span> speak louder than words</h2>
+								<p>
+									The firm is known for providing innovative design solution which are unique it is committed to excellence, dedicated to goals, and has been very challenging to satisfy client needs. 
+									By matching the expertise of experienced professionals, with the specific needs of each client to provide right fit of planning and design.
+									Our chairs are strengthened by well qualified and experienced persons in order to achieve the goal of providing better service to our clients.
+									Here we are provide an excellent communication and personal attention to every project which has helped us in establishing long term relationship that extends beyond any single project.
 								</p>
 							</div>
 							<div class="about-signature-img d-flex wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
@@ -135,7 +137,7 @@
 					</div>
 					<div class="arck-cta-number d-flex align-items-center ">
 						<i class="fal fa-phone-alt"></i>
-						<a href="tel:04442615384">044 42 61 5384</a>
+						<a href="javascript:void(0)">044 42 61 5384</a>
 					</div>
 				</div>
 			</div>
@@ -215,9 +217,9 @@
 						<div class="arck-faq-video-play-wrap position-relative">
 							<div class="acrk-img-shape1 position-absolute"><i></i></div>
 							<div class="acrk-img-shape2 position-absolute"><i></i></div>
-							<div class="arck-video-play-btn">
-								<a class="d-flex align-items-center justify-content-center" href="#"><i class="fas fa-play"></i></a>
-							</div>
+							<!-- <div class="arck-video-play-btn">
+								<a class="d-flex align-items-center justify-content-center" href="javascript:void(0)"><i class="fas fa-play"></i></a>
+							</div> -->
 							<div class="inner-img">
 								<img src="assets/img/about/ab5.jpg" alt="">
 							</div>

@@ -18,7 +18,7 @@
 										</li>
 										<li>
 											<i class="fal fa-phone-alt"></i>
-										<li><a href="tel:+9104442615384" style="font:caption">044 42 61 5384</a></li>
+										<li><a href="javascript:void(0)" style="font:caption">044 42 61 5384</a></li>
 										</li>
 									</ul>
 								</div>
@@ -40,7 +40,7 @@
 										</li>
 										<li>
 											<i class="fal fa-phone-alt"></i>
-										<li><a href="tel:+9104314505150" style="font:caption">0431 45 05 150</a></li>
+										<li><a href="javascript:void(0)" style="font:caption">0431 45 05 150</a></li>
 										</li>
 									</ul>
 								</div>
@@ -77,10 +77,10 @@
 		</div>
 
 		<div class="row arck-footer-copyright">
-			<div class="col-lg-6 col-md-6 text-left" style="padding-left:150px">
+			<div class="col-lg-6 col-md-6 text-center">
 				Copyright © 2023 <span style="color:#1aa6f8"> Essquarre </span>. All Rights Reserved 
 			</div>
-			<div class="col-lg-6 col-md-6" style="padding-left:400px">
+			<div class="col-lg-6 col-md-6 text-center">
 			 Crafted by <a href="https://zworktechnology.com/" target="_blank"><span style="color:#1aa6f8">zworktechnology.com</span></a>
 			</div>
 		</div>

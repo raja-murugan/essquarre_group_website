@@ -65,7 +65,7 @@
 					</div>
 					<div class="header-cta-value">
 						<span class="ar-title">Phone:</span>
-						<span class="ar-value"><a href="tel:+9104442615384">+91 044 42 61 5384</a></span>
+						<span class="ar-value"><a href="javascript:void(0)"> 044 42 61 5384</a></span>
 					</div>
 				</div>
 				<div class="header-cta-btn">
@@ -157,8 +157,8 @@
 								<h5>Contact Us</h5>
 								<p class="text">
 									<i class="fal fa-phone-alt">&nbsp;&nbsp;Phone</i><br>
-									<a href="tel:+9104442615384" style="font: caption;">+91 044 42 61 5384</a><br>
-									<a href="tel:+9104314505150" style="font: caption;">+91 0431 45 05 150</a><br><br>
+									<a href="javascript:void(0)" style="font: caption;"> 044 42 61 5384</a><br>
+									<a href="javascript:void(0)" style="font: caption;"> 0431 45 05 150</a><br><br>
 									<i class="fas fa-envelope">&nbsp;&nbsp;Email</i><br>
 									<a href="mailto:Essquarreassociates@gmail.com">Essquarreassociates@gmail.com</a>
 									<a href="mailto:info.essquarre@gmail.com">info.essquarre@gmail.com</a>

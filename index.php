@@ -57,7 +57,7 @@
 				<div class="row">
 					<div class="col-lg-6 wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
 						<div class="arck-about-img-wrap-2">
-							<img src="assets/img/about/ab3.jpg" alt="">
+							<img src="assets/img/about/ab3.jpg" style="height: 680px;" alt="">
 						</div>
 					</div>
 					<div class="col-lg-6">
@@ -65,10 +65,11 @@
 							<div class="arck-section-title-2 headline pera-content wow fadeInUp" data-wow-delay="400ms"
 								data-wow-duration="1500ms">
 								<span class="sub-title text-uppercase">Essquarre Groups</span>
-								<h2>Shaping <span>Design </span> Futures Since 2007</h2>
-								<p>Established in 2007, Essquarre Associates has been a pioneering force, offering comprehensive design, engineering, and project management services. 
-									Our commitment to innovation and excellence, coupled with personalized attention, ensures enduring client satisfaction. Our experienced team aligns expertise with unique client needs, fostering long-term relationships. 
-									Explore the essence of design and unparalleled service with Essquarre Associates.
+								<h2><span>Artistry </span> in Architecture </h2>
+								<p>
+									ESSQUARRE ASSOCIATES was formed in the year 2007 as a firm. Now, we are aiming towards to convert as a Private limited concern. 
+									The firm is rendering. Total Consultancy in Design, Detailed Engineering, Project Coordination and Project Management services.
+									We offer wide range of services under one roof, from architectural / engineering, Planning, designing, structural designing cum detailing, estimation, valuation and meeting Out the latest technological and eds.p environmental service needs.
 								</p>
 							</div>
 							<div class="about-signature-img d-flex wow fadeInUp" data-wow-delay="400ms"
@@ -185,11 +186,11 @@
 							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png"
 									alt=""></span>
 							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-								<img src="assets/icon/ic12.png" alt="">
+								<img src="assets/icon/ic19.png" alt="" style="width: 70px;">
 							</div>
 							<div class="inner-text headline pera-content">
-								<h3><a href="javascript:void(0)">2D Drawings</a></h3>
-								<p>Detail-oriented precision. Our 2D drawings set the foundation for impeccable design execution and construction accuracy.</p>
+								<h3><a href="javascript:void(0)">Architectural Designing</a></h3>
+								<p>Crafting spaces that inspire. We design buildings that tell stories through thoughtful architecture.</p><br>
 							</div>
 						</div>
 					</div>
@@ -199,11 +200,11 @@
 							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png"
 									alt=""></span>
 							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-								<img src="assets/icon/ic13.png" alt="">
+								<img src="assets/icon/ic18.png" alt="" style="width: 80px;">
 							</div>
 							<div class="inner-text headline pera-content">
-								<h3><a href="javascript:void(0)">Fabrication Details</a></h3>
-								<p>Precise craftsmanship. Our fabrication details guide construction, ensuring quality and precision in every element's production.</p>
+								<h3><a href="javascript:void(0)">Engineer Drawing</a></h3>
+								<p>Precision in every line, Our drawings are the blueprints of innovation, bringing ideas to life.</p><br>
 							</div>
 						</div>
 					</div>
@@ -284,26 +285,26 @@
 								<span class="sub-title text-uppercase">Get A Quote</span>
 								<h2>Contact Us</h2>
 							</div>
-							<form action="#" method="get">
-								<div class="row">
-									<div class="col-md-6">
-										<input type="text" name="name" placeholder="First Name">
+								<form action="mail.php" method="post">
+									<div class="row">
+										<div class="col-md-6">
+											<input type="text" name="name" placeholder="Name" required="">
+										</div>
+										<div class="col-md-6">
+											<input type="email" name="email" placeholder="E-mail" required="">
+										</div>
+										<div class="col-md-6">
+											<input type="number" name="mobile" placeholder="Mobile Number" required="">
+										</div>
+										<div class="col-md-6">
+											<input type="text" name="email" placeholder="Subject" required="">
+										</div>
+										<div class="col-md-12">
+											<textarea name="message" placeholder="Message"></textarea>
+										</div>
 									</div>
-									<div class="col-md-6">
-										<input type="text" name="name" placeholder="Last Name">
-									</div>
-									<div class="col-md-6">
-										<input type="text" name="phone" placeholder="Phone Number">
-									</div>
-									<div class="col-md-6">
-										<input type="email" name="email" placeholder="E-mail">
-									</div>
-									<div class="col-md-12">
-										<textarea type="text" name="message" placeholder="Message" style="color: black;"></textarea>
-									</div>
-								</div>
-								<button type="submit">Submit Now</button>
-							</form>
+									<button type="submit">Submit Now</button>
+								</form>
 						</div>
 					</div>
 				</div>

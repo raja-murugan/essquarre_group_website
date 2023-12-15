@@ -59,8 +59,8 @@
 										</div>
 										<div class="inner-text headline pera-content">
 											<h3>Telephone:</h3>
-											<p><a href="tel:+044 42 61 5384" style="font:caption">044 42 61 5384</a></p>
-											<p><a href="tel:+0431 45 05 150" style="font:caption">0431 45 05 150</a></p>
+											<p><a href="javascript:void(0)" style="font:caption">044 42 61 5384</a></p>
+											<p><a href="javascript:void(0)" style="font:caption">0431 45 05 150</a></p>
 										</div>
 									</div>
 								</div>
@@ -75,7 +75,7 @@
 									<h2>Keep Get in Touch</h2>
 									<p>Stay Connected, Elevate Spaces. Get in Touch for Inspired Design Solutions.</p>
 								</div>
-								<form action="mail.php" method="get">
+								<form action="mail.php" method="post">
 									<div class="row">
 										<div class="col-md-6">
 											<input type="text" name="name" placeholder="Name" required="">

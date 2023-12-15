@@ -3,9 +3,6 @@
 <!-- Start of Breadcrumb section
 	============================================= -->
 	<section id="arck-breadcrumb" class="arck-breadcrumb-section-2 position-relative" data-background="assets/img/bg/ar-shape.png">
-		<div class="slider-side-content position-absolute">
-			<span class="archx-slider-side1 position-absolute"><a href="#">Contact@gmail.com</a></span>
-		</div>
 		<div class="container">
 			<div class="arck-breadcrumb-content position-relative text-center headline-2 ul-li">
 				<h1>Work</h1>

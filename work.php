@@ -192,18 +192,6 @@
 					</div>
 				</div>		
 
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/20.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
-							</div>
-						</div>
-					</div>
-				</div>
-
 				<div class="grid-item grid-size-25 building" data-category="building">
 					<div class="arck-project-item position-relative two">
 						<div class="inner-img">
@@ -256,6 +244,66 @@
 					<div class="arck-project-item position-relative two">
 						<div class="inner-img">
 							<img src="assets/img/picture/19.jpg" alt="">
+						</div>
+						<div class="inner-text">
+							<div class="project-title-desc headline pera-content">
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
+					<div class="arck-project-item position-relative two">
+						<div class="inner-img">
+							<img src="assets/img/picture/20.jpg" alt="">
+						</div>
+						<div class="inner-text">
+							<div class="project-title-desc headline pera-content">
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
+					<div class="arck-project-item position-relative two">
+						<div class="inner-img">
+							<img src="assets/img/picture/21.jpg" alt="">
+						</div>
+						<div class="inner-text">
+							<div class="project-title-desc headline pera-content">
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
+					<div class="arck-project-item position-relative two">
+						<div class="inner-img">
+							<img src="assets/img/picture/22.jpg" alt="">
+						</div>
+						<div class="inner-text">
+							<div class="project-title-desc headline pera-content">
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
+					<div class="arck-project-item position-relative two">
+						<div class="inner-img">
+							<img src="assets/img/picture/23.jpg" alt="">
+						</div>
+						<div class="inner-text">
+							<div class="project-title-desc headline pera-content">
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
+					<div class="arck-project-item position-relative two">
+						<div class="inner-img">
+							<img src="assets/img/picture/24.jpg" alt="">
 						</div>
 						<div class="inner-text">
 							<div class="project-title-desc headline pera-content">

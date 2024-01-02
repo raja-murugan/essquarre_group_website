@@ -78,7 +78,7 @@
 					<div class="col-lg-4 col-md-6 no-padding">
 						<div class="arck-service-item text-center position-relative">
 							<div class="hover-img position-absolute">
-								<img src="assets/img/service/ser1.jpg" alt="">
+								<img src="assets/img/service/box1.webp" alt="">
 							</div>
 							<div class="inner-icon position-relative">
 								<img src="assets/icon1/6.png" alt="">
@@ -92,7 +92,7 @@
 					<div class="col-lg-4 col-md-6 no-padding">
 						<div class="arck-service-item text-center position-relative">
 							<div class="hover-img position-absolute">
-								<img src="assets/img/service/ser2.jpg" alt="">
+								<img src="assets/img/service/box2.webp" alt="">
 							</div>
 							<div class="inner-icon position-relative">
 								<img src="assets/icon1/7.png" alt="">
@@ -106,7 +106,7 @@
 					<div class="col-lg-4 col-md-6 no-padding">
 						<div class="arck-service-item text-center position-relative">
 							<div class="hover-img position-absolute">
-								<img src="assets/img/service/ser3.jpg" alt="">
+								<img src="assets/img/service/box3.webp" alt="">
 							</div>
 							<div class="inner-icon position-relative">
 								<img src="assets/icon1/8.png" alt="">

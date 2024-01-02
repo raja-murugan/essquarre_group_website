@@ -18,302 +18,349 @@
 
 <!-- Start of Project Page content section
 	============================================= -->
-	<section id="arck-project-feed" class="arck-project-feed-section inner-page-padding">
-
-		<div class="arck-project-filter-content">
-			<div class="filtr-container-area grid clearfix" data-isotope="{ &quot;masonry&quot;: { &quot;columnWidth&quot;: 0 } }">
-				<div class="grid-sizer"></div>
-
-				<div class="grid-item grid-size-25 building" data-category="building">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/1.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="grid-item grid-size-25 building" data-category="building">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/2.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
-							</div>
-						</div>
-					</div>
-				</div>
+	<section id="arck-project-feed-2" class="arck-project-feed-section-2 inner-page-padding">
+		<div class="container">
+		
+			<div class="arck-project-feed-content-2">
+				<div class="filtr-container-area grid_2 clearfix">
 				
-				<div class="grid-item grid-size-25 building" data-category="building">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/3.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/4.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/5.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
-							</div>
-						</div>
-					</div>
-				</div>
+					
 				
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/6.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
+				<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/gov 1.webp" style="width:427x; height: 300px;" alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">TamilNadu  Government Project</a></h3>
+									<span class="port-cate text-uppercase">Chennai</span>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
+				
+				
+				
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/gov 16.webp"style="width:427x; height: 300px; "alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">District Police Office Building</a></h3>
+									<span class="port-cate text-uppercase">Chennai</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				
+				
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/gov 15.webp"style="width:427x; height: 300px; "alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">District Police Office Building</a></h3>
+									<span class="port-cate text-uppercase">Chengalpattu</span>
+								</div>
+							</div>
+						</div>
+					</div>
 
-				<div class="grid-item grid-size-25 building" data-category="building">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/7.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
-							</div>
-						</div>
-					</div>
-				</div>
 
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/8.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
-							</div>
-						</div>
-					</div>
-				</div>
 
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/9.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/gov 2.webp" style="width:427x; height: 300px;" alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">TamilNadu TextBook Society Building</a></h3>
+									<span class="port-cate text-uppercase">Nungapakkam,Chennai</span>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
 
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/10.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/gov 5.webp"style="width:427x; height: 300px;"  alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">The Proposed Corporate Building</a></h3>
+									<span class="port-cate text-uppercase">Chennai</span>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
+				
+					
 
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/11.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/gov 6.webp" style="width:427x; height: 300px;"  alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">AAWIN Admin Building</a></h3>
+									<span class="port-cate text-uppercase">Nandhanam, Chennai</span>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
 
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/12.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/gov 9.webp" style="width:427x; height: 300px;" alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)"> DPO-Admin building </a></h3>
+									<span class="port-cate text-uppercase"> TamilNadu</span>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
 
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/13.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/gov 13.webp"style="width:427x; height: 300px;"  alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">Religious Building</a></h3>
+									<span class="port-cate text-uppercase">TamilNadu</span>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
 
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/14.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
-							</div>
-						</div>
-					</div>
-				</div>		
+					
 
-				<div class="grid-item grid-size-25 building" data-category="building">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/16.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/gov 10.webp" style="width:427x; height: 300px;" alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">Renovation for old commissioners building</a></h3>
+									<span class="port-cate text-uppercase">Egmore- Chennai</span>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/gov 17.webp"style="width:427x; height: 300px;"  alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">Main Entry For M/s Ramakrishna University</a></h3>
+									<span class="port-cate text-uppercase">Perambalur</span>
+								</div>
+							</div>
+						</div>
+					</div>
 
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/17.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/gov 11.webp"style="width:427x; height: 300px;"  alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">Police Station </a></h3>
+									<span class="port-cate text-uppercase">Teynampet</span>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/gov 14.webp" style="width:427x; height: 300px;" alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">Government School </a></h3>
+									<span class="port-cate text-uppercase">Aavadi</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					
 
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/18.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/gov 7.webp"style="width:427x; height: 300px;"  alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">M/s.Sankara Universiy</a></h3>
+									<span class="port-cate text-uppercase">Kanchipuram</span>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
 
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/15.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/gov4.webp"style="width:427x; height: 300px;"  alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">Our Project</a></h3>
+									<span class="port-cate text-uppercase">TamilNadu</span>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
+					
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/shop3.webp"style="width:427x; height: 300px;" alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">Khadi Karft Building.</a></h3>
+									<span class="port-cate text-uppercase">kuralagam Chennai.</span>
+								</div>
+							</div>
+						</div>
+					</div>
 
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/19.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
+				<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/shop4.webp"style="width:427x; height: 300px;" alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">Ravi Towers</a></h3>
+									<span class="port-cate text-uppercase">Perambalur.</span>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
 
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/20.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/shop1.webp"style="width:427x; height: 300px;" alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">KVP Speciality Hospital.</a></h3>
+									<span class="port-cate text-uppercase">Chennai,</span>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
 
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/21.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/shop2.webp" style="width:427x; height: 300px;"alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">Saraswathi Speciality Hospital</a></h3>
+									<span class="port-cate text-uppercase">Chennai.</span>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
+					
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/shop5.webp"style="width:427x; height: 300px;" alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">Our Project.</a></h3>
+									<span class="port-cate text-uppercase">chennai.</span>
+								</div>
+							</div>
+						</div>
+					</div>
 
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/22.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/temple1.webp"style="width:427x; height: 300px;"  alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)"> Religious Center</a></h3>
+									<span class="port-cate text-uppercase">chennai.</span>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
+					
+					
+					
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/temple img5.webp"style="width:427x; height: 300px;"  alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">Proposed Interior Design</a></h3>
+									<span class="port-cate text-uppercase">Palani.</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/house img.webp"style="width:427x; height: 300px;"  alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">Our Project </a></h3>
+									<span class="port-cate text-uppercase">Chennai</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="grid-item grid-size-25 building">
+						<div class="arck-project-feed-item-2">
+							<div class="arck-project-item-2 position-relative">
+								<div class="inner-img">
+									<img src="assets/img/picture/house img (2).webp"style="width:427x; height: 300px;"  alt="">
+								</div>
+								<div class="inner-text headline pera-content">
+									<h3><a href="javascript:void(0)">Our Project </a></h3>
+									<span class="port-cate text-uppercase">chennai.</span>
+								</div>
+							</div>
+						</div>
+					</div>
 
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/23.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/picture/24.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							<div class="project-title-desc headline pera-content">
-							</div>
-						</div>
-					</div>
-				</div>
 
 			</div>
 		</div>
+			</div>
 	</section>
 <!-- End of Project Page content section
 	============================================= -->	

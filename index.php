@@ -29,7 +29,7 @@
 								</div>
 								<h1>Innovate, Integrate, 
 									Inspire Your Living Spaces.</h1>
-								<p>Essquare seamlessly blends innovation and style to create spaces that inspire and captivate.</p>
+								<p>Essquare Groups seamlessly blends innovation and style to create spaces that inspire and captivate.</p>
 								<div class="arck-btn-2">
 									<a class="d-flex justify-content-center align-items-center text-uppercase"
 										href="work.php">View Work</a>
@@ -67,7 +67,7 @@
 								<span class="sub-title text-uppercase">Essquarre Groups</span>
 								<h2><span>Artistry </span> in Architecture </h2>
 								<p>
-									ESSQUARRE ASSOCIATES was formed in the year 2007 as a firm. Now, we are aiming towards to convert as a Private limited concern. 
+									ESSQUARRE Groups was formed in the year 2007 as a firm. Now, we are aiming towards to convert as a Private limited concern. 
 									The firm is rendering. Total Consultancy in Design, Detailed Engineering, Project Coordination and Project Management services.
 									We offer wide range of services under one roof, from architectural / engineering, Planning, designing, structural designing cum detailing, estimation, valuation and meeting Out the latest technological and eds.p environmental service needs.
 								</p>
@@ -79,7 +79,10 @@
 								</div>
 								<div class="inner-text headline  position-relative">
 									<h3>‘’Design is a learning Experience. So my agenda is to figure out What I Want to learn next’’ </h3>
-									
+									<div class="about-author">
+										<h4>Suresh Subramanian</h4>
+										<span>CEO & Founder</span>
+									</div>
 								</div>
 							</div>
 							<div class="arck-btn-2 wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
@@ -233,7 +236,7 @@
 									<div class="arck-teestimonial-item">
 										<div class="inner-text position-relative">
 											<i class="fas fa-quote-left"></i>
-											Essquarre made our dream home a reality. The personalized service and attention to detail surpassed expectations. Highly recommended!
+											Essquarre Groups made our dream home a reality. The personalized service and attention to detail surpassed expectations. Highly recommended!
 										</div>
 										<div class="inner-author d-flex">
 											<div class="author-img">
@@ -248,7 +251,7 @@
 									<div class="arck-teestimonial-item">
 										<div class="inner-text position-relative">
 											<i class="fas fa-quote-left"></i>
-											Exceptional work! Essquarre's expertise transformed our space. Professionalism, creativity, and a personal touch—impressed with the result!
+											Exceptional work! Essquarre's Groups expertise transformed our space. Professionalism, creativity, and a personal touch—impressed with the result!
 										</div>
 										<div class="inner-author d-flex">
 											<div class="author-img">
@@ -263,7 +266,7 @@
 									<div class="arck-teestimonial-item">
 										<div class="inner-text position-relative">
 											<i class="fas fa-quote-left"></i> 
-											Essquarre Associates stands out for their innovation and dedication. From design to execution, they delivered excellence. Highly satisfied with our project!
+											Essquarre Groups stands out for their innovation and dedication. From design to execution, they delivered excellence. Highly satisfied with our project!
 										</div>
 										<div class="inner-author d-flex">
 											<div class="author-img">

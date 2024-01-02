@@ -1134,15 +1134,16 @@ body {
 .arck-slider-area .slick-dots li.slick-active {
   background-color: var(--main-color);
 }
-
 .arck-slider-section-2 {
   overflow: hidden;
   background-color: #fbfbfb;
+  
 }
 .arck-slider-section-2 .slider-social {
   left: 50px;
   z-index: 2;
   bottom: 50px;
+  margin-top: -210px;
 }
 .arck-slider-section-2 .slider-social a {
   margin-left: 15px;
@@ -1165,6 +1166,8 @@ body {
   width: 3150px;
   height: 1100px;
   object-fit: none;
+  margin-top: -110px;
+  
 }
 .arck-main-slider-item-2 .slider-shape {
   top: 25%;
@@ -1227,12 +1230,15 @@ body {
 }
 .arck-main-slider-item-2.slick-current.slick-active .arck-slider-main-text .slider-sub-text {
   opacity: 1;
+  margin-top: -150px;
   -webkit-transform: translateY(0);
           transform: translateY(0);
   -webkit-transition: all 1500ms ease;
   transition: all 1500ms ease;
   -webkit-transition-delay: 300ms;
           transition-delay: 300ms;
+
+
 }
 .arck-main-slider-item-2.slick-current.slick-active .arck-slider-main-text h1 {
   opacity: 1;
@@ -1242,6 +1248,7 @@ body {
   transition: all 1500ms ease;
   -webkit-transition-delay: 600ms;
           transition-delay: 600ms;
+
 }
 .arck-main-slider-item-2.slick-current.slick-active .arck-slider-main-text p {
   opacity: 1;
@@ -1860,6 +1867,7 @@ body {
   transition: var(--transition);
   background-color: rgba(0, 0, 0, 0.7);
 }
+
 .arck-project-item .inner-img {
   overflow: hidden;
 }

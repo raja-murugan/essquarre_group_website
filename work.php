@@ -124,7 +124,7 @@
 									<img src="assets/img/picture/gov 9.webp" style="width:427x; height: 300px;" alt="">
 								</div>
 								<div class="inner-text headline pera-content">
-									<h3><a href="javascript:void(0)"> DPO-Admin building </a></h3>
+									<h3><a href="javascript:void(0)">DPO-Admin building </a></h3>
 									<span class="port-cate text-uppercase"> TamilNadu</span>
 								</div>
 							</div>
